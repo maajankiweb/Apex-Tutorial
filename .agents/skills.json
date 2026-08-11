@@ -1,0 +1,2327 @@
+{
+  "version": "1.0",
+  "description": "MaaJanki Web Tech & Apex Tutorial Agent Skill Memory Registry",
+  "totalSkills": 464,
+  "skills": [
+    {
+      "name": "3d-scene-developer",
+      "path": "./skills/3d-scene-developer/SKILL.md",
+      "description": "Web 3D visualization specialist who creates immersive 3D scenes, terrain models, point cloud visualizations, and interactive web experiences using Cesium, ArcGIS Scene Viewer, and modern 3D web frameworks."
+    },
+    {
+      "name": "academic-anthropologist",
+      "path": "./skills/academic-anthropologist/SKILL.md",
+      "description": "Expert in cultural systems, rituals, kinship, belief systems, and ethnographic method — builds culturally coherent societies that feel lived-in rather than invented"
+    },
+    {
+      "name": "academic-geographer",
+      "path": "./skills/academic-geographer/SKILL.md",
+      "description": "Expert in physical and human geography, climate systems, cartography, and spatial analysis — builds geographically coherent worlds where terrain, climate, resources, and settlement patterns make scientific sense"
+    },
+    {
+      "name": "academic-historian",
+      "path": "./skills/academic-historian/SKILL.md",
+      "description": "Expert in historical analysis, periodization, material culture, and historiography — validates historical coherence and enriches settings with authentic period detail grounded in primary and secondary sources"
+    },
+    {
+      "name": "academic-narratologist",
+      "path": "./skills/academic-narratologist/SKILL.md",
+      "description": "Expert in narrative theory, story structure, character arcs, and literary analysis — grounds advice in established frameworks from Propp to Campbell to modern narratology"
+    },
+    {
+      "name": "academic-psychologist",
+      "path": "./skills/academic-psychologist/SKILL.md",
+      "description": "Expert in human behavior, personality theory, motivation, and cognitive patterns — builds psychologically credible characters and interactions grounded in clinical and research frameworks"
+    },
+    {
+      "name": "academic-statistician",
+      "path": "./skills/academic-statistician/SKILL.md",
+      "description": "Expert in quantitative research methodology, experimental design, and statistical inference — pressure-tests claims, designs sound studies, and separates real signal from noise, chance, and bias"
+    },
+    {
+      "name": "accessibility-auditor",
+      "path": "./skills/accessibility-auditor/SKILL.md",
+      "description": "Expert accessibility specialist who audits interfaces against WCAG standards, tests with assistive technologies, and ensures inclusive design. Defaults to finding barriers — if it's not tested with a screen reader, it's not accessible."
+    },
+    {
+      "name": "account-strategist",
+      "path": "./skills/account-strategist/SKILL.md",
+      "description": "Expert post-sale account strategist specializing in land-and-expand execution, stakeholder mapping, QBR facilitation, and net revenue retention. Turns closed deals into long-term platform relationships through systematic expansion planning and multi-threaded account development."
+    },
+    {
+      "name": "accounts-payable-agent",
+      "path": "./skills/accounts-payable-agent/SKILL.md",
+      "description": "Autonomous payment processing specialist that executes vendor payments, contractor invoices, and recurring bills across any payment rail — crypto, fiat, stablecoins. Integrates with AI agent workflows via tool calls."
+    },
+    {
+      "name": "ad-creative-strategist",
+      "path": "./skills/ad-creative-strategist/SKILL.md",
+      "description": "Paid media creative specialist focused on ad copywriting, RSA optimization, asset group design, and creative testing frameworks across Google, Meta, Microsoft, and programmatic platforms. Bridges the gap between performance data and persuasive messaging."
+    },
+    {
+      "name": "aeo-foundations-architect",
+      "path": "./skills/aeo-foundations-architect/SKILL.md",
+      "description": "Expert in AI Engine Optimization infrastructure — implements llms.txt, AI-aware robots.txt, token-budgeted content, structured Markdown availability, and agent discovery files so AI crawlers, citation engines, and browsing agents can find, parse, and act on your site"
+    },
+    {
+      "name": "agent-activation-prompts",
+      "path": "./skills/agent-activation-prompts/SKILL.md",
+      "description": "🎯 NEXUS Agent Activation Prompts"
+    },
+    {
+      "name": "agentic-identity-trust",
+      "path": "./skills/agentic-identity-trust/SKILL.md",
+      "description": "Designs identity, authentication, and trust verification systems for autonomous AI agents operating in multi-agent environments. Ensures agents can prove who they are, what they're authorized to do, and what they actually did."
+    },
+    {
+      "name": "agentic-identity-trust-architect",
+      "path": "./skills/agentic-identity-trust-architect/SKILL.md",
+      "description": "Designs identity, authentication, and trust verification systems for autonomous AI agents operating in multi-agent environments. Ensures agents can prove who they are, what they're authorized to do, and what they actually did."
+    },
+    {
+      "name": "agentic-search-optimizer",
+      "path": "./skills/agentic-search-optimizer/SKILL.md",
+      "description": "Expert in WebMCP readiness and agentic task completion — audits whether AI agents can actually accomplish tasks on your site (book, buy, register, subscribe), implements WebMCP declarative and imperative patterns, and measures task completion rates across AI browsing agents"
+    },
+    {
+      "name": "AGENTS",
+      "path": "./skills/AGENTS/SKILL.md",
+      "description": "ZK Steward Agent"
+    },
+    {
+      "name": "agents-orchestrator",
+      "path": "./skills/agents-orchestrator/SKILL.md",
+      "description": "Autonomous pipeline manager that orchestrates the entire development workflow. You are the leader of this process."
+    },
+    {
+      "name": "ai-citation-strategist",
+      "path": "./skills/ai-citation-strategist/SKILL.md",
+      "description": "Expert in AI recommendation engine optimization (AEO/GEO) — audits brand visibility across ChatGPT, Claude, Gemini, and Perplexity, identifies why competitors get cited instead, and delivers content fixes that improve AI citations"
+    },
+    {
+      "name": "ai-data-remediation-engineer",
+      "path": "./skills/ai-data-remediation-engineer/SKILL.md",
+      "description": "Specialist in self-healing data pipelines — uses air-gapped local SLMs and semantic clustering to automatically detect, classify, and fix data anomalies at scale. Focuses exclusively on the remediation layer: intercepting bad data, generating deterministic fix logic via Ollama, and guaranteeing zero data loss. Not a general data engineer — a surgical specialist for when your data is broken and the pipeline can't stop."
+    },
+    {
+      "name": "ai-engineer",
+      "path": "./skills/ai-engineer/SKILL.md",
+      "description": "Expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. Focused on building intelligent features, data pipelines, and AI-powered applications with emphasis on practical, scalable solutions."
+    },
+    {
+      "name": "analytics-reporter",
+      "path": "./skills/analytics-reporter/SKILL.md",
+      "description": "Expert data analyst transforming raw data into actionable business insights. Creates dashboards, performs statistical analysis, tracks KPIs, and provides strategic decision support through data visualization and reporting."
+    },
+    {
+      "name": "anthropologist",
+      "path": "./skills/anthropologist/SKILL.md",
+      "description": "Expert in cultural systems, rituals, kinship, belief systems, and ethnographic method — builds culturally coherent societies that feel lived-in rather than invented"
+    },
+    {
+      "name": "api-tester",
+      "path": "./skills/api-tester/SKILL.md",
+      "description": "Expert API testing specialist focused on comprehensive API validation, performance testing, and quality assurance across all systems and third-party integrations"
+    },
+    {
+      "name": "app-store-optimizer",
+      "path": "./skills/app-store-optimizer/SKILL.md",
+      "description": "Expert app store marketing specialist focused on App Store Optimization (ASO), conversion rate optimization, and app discoverability"
+    },
+    {
+      "name": "application-security-engineer",
+      "path": "./skills/application-security-engineer/SKILL.md",
+      "description": "AppSec specialist who secures the software development lifecycle through threat modeling, secure code review, SAST/DAST integration, and developer security education that makes secure code the default."
+    },
+    {
+      "name": "automation-governance-architect",
+      "path": "./skills/automation-governance-architect/SKILL.md",
+      "description": "Governance-first architect for business automations (n8n-first) who audits value, risk, and maintainability before implementation."
+    },
+    {
+      "name": "autonomous-optimization-architect",
+      "path": "./skills/autonomous-optimization-architect/SKILL.md",
+      "description": "Intelligent system governor that continuously shadow-tests APIs for performance while enforcing strict financial and security guardrails against runaway costs."
+    },
+    {
+      "name": "backend-architect",
+      "path": "./skills/backend-architect/SKILL.md",
+      "description": "Senior backend architect specializing in scalable system design, database architecture, API development, and cloud infrastructure. Builds robust, secure, performant server-side applications and microservices"
+    },
+    {
+      "name": "backend-architect-with-memory",
+      "path": "./skills/backend-architect-with-memory/SKILL.md",
+      "description": "Senior backend architect specializing in scalable system design, database architecture, API development, and cloud infrastructure. Builds robust, secure, performant server-side applications and microservices"
+    },
+    {
+      "name": "baidu-seo-specialist",
+      "path": "./skills/baidu-seo-specialist/SKILL.md",
+      "description": "Expert Baidu search optimization specialist focused on Chinese search engine ranking, Baidu ecosystem integration, ICP compliance, Chinese keyword research, and mobile-first indexing for the China market."
+    },
+    {
+      "name": "behavioral-nudge-engine",
+      "path": "./skills/behavioral-nudge-engine/SKILL.md",
+      "description": "Behavioral psychology specialist that adapts software interaction cadences and styles to maximize user motivation and success."
+    },
+    {
+      "name": "beyond-seo",
+      "path": "./skills/beyond-seo/SKILL.md",
+      "description": "Use for SEO audits, AEO/GEO strategy, local SEO, backlink review, competitor research, keyword mapping, Apify/native scraping workflows, and client-ready SEO reporting."
+    },
+    {
+      "name": "bilibili-content-strategist",
+      "path": "./skills/bilibili-content-strategist/SKILL.md",
+      "description": "Expert Bilibili marketing specialist focused on UP主 growth, danmaku culture mastery, B站 algorithm optimization, community building, and branded content strategy for China's leading video community platform."
+    },
+    {
+      "name": "bim-gis-specialist",
+      "path": "./skills/bim-gis-specialist/SKILL.md",
+      "description": "Integration specialist who bridges Building Information Modeling and Geographic Information Systems — Revit/IFC data conversion, indoor mapping, digital twin architecture, and facility management data models."
+    },
+    {
+      "name": "blender-add-on-engineer",
+      "path": "./skills/blender-add-on-engineer/SKILL.md",
+      "description": "Blender tooling specialist - Builds Python add-ons, asset validators, exporters, and pipeline automations that turn repetitive DCC work into reliable one-click workflows"
+    },
+    {
+      "name": "blender-addon-engineer",
+      "path": "./skills/blender-addon-engineer/SKILL.md",
+      "description": "Blender tooling specialist - Builds Python add-ons, asset validators, exporters, and pipeline automations that turn repetitive DCC work into reliable one-click workflows"
+    },
+    {
+      "name": "blockchain-security-auditor",
+      "path": "./skills/blockchain-security-auditor/SKILL.md",
+      "description": "Expert smart contract security auditor specializing in vulnerability detection, formal verification, exploit analysis, and comprehensive audit report writing for DeFi protocols and blockchain applications."
+    },
+    {
+      "name": "book-co-author",
+      "path": "./skills/book-co-author/SKILL.md",
+      "description": "Strategic thought-leadership book collaborator for founders, experts, and operators turning voice notes, fragments, and positioning into structured first-person chapters."
+    },
+    {
+      "name": "bookkeeper-controller",
+      "path": "./skills/bookkeeper-controller/SKILL.md",
+      "description": "Expert bookkeeper and controller specializing in day-to-day accounting operations, financial reconciliations, month-end close processes, and internal controls. Ensures the accuracy, completeness, and timeliness of financial records while maintaining GAAP compliance and audit readiness at all times."
+    },
+    {
+      "name": "brand-guardian",
+      "path": "./skills/brand-guardian/SKILL.md",
+      "description": "Expert brand strategist and guardian specializing in brand identity development, consistency maintenance, and strategic brand positioning"
+    },
+    {
+      "name": "business-strategist",
+      "path": "./skills/business-strategist/SKILL.md",
+      "description": "Senior management consulting specialist for competitive analysis, market entry strategy, business model design, growth planning, organizational strategy, and strategic decision-making — translating complex market dynamics into clear, actionable strategies that create sustainable competitive advantage"
+    },
+    {
+      "name": "carousel-growth-engine",
+      "path": "./skills/carousel-growth-engine/SKILL.md",
+      "description": "Autonomous TikTok and Instagram carousel generation specialist. Analyzes any website URL with Playwright, generates viral 6-slide carousels via Gemini image generation, publishes directly to feed via Upload-Post API with auto trending music, fetches analytics, and iteratively improves through a data-driven learning loop."
+    },
+    {
+      "name": "cartography-designer",
+      "path": "./skills/cartography-designer/SKILL.md",
+      "description": "Map aesthetics specialist who designs beautiful, readable, and effective maps — color theory, typography, label placement, basemap selection, and visual hierarchy for both print and web."
+    },
+    {
+      "name": "change-management-consultant",
+      "path": "./skills/change-management-consultant/SKILL.md",
+      "description": "Expert change management specialist using ADKAR, Kotter, and Prosci frameworks to guide organizations through technology implementations, restructuring, culture transformation, and M&A integration — managing resistance, building adoption, and ensuring changes stick long after go-live"
+    },
+    {
+      "name": "chief-financial-officer",
+      "path": "./skills/chief-financial-officer/SKILL.md",
+      "description": "Strategic finance executive who governs capital allocation, treasury operations, financial planning, M&A finance, investor relations, and board reporting — translating financial complexity into clear decisions that drive business performance and stakeholder confidence."
+    },
+    {
+      "name": "chief-of-staff",
+      "path": "./skills/chief-of-staff/SKILL.md",
+      "description": "Master coordinator for founders and executives — filters noise, owns processes, enforces consistency, routes decisions, and positions outputs for impact so the boss can think clearly."
+    },
+    {
+      "name": "china-e-commerce-operator",
+      "path": "./skills/china-e-commerce-operator/SKILL.md",
+      "description": "Expert China e-commerce operations specialist covering Taobao, Tmall, Pinduoduo, and JD ecosystems with deep expertise in product listing optimization, live commerce, store operations, 618/Double 11 campaigns, and cross-platform strategy."
+    },
+    {
+      "name": "china-market-localization-strategist",
+      "path": "./skills/china-market-localization-strategist/SKILL.md",
+      "description": "Full-stack China market localization expert who transforms real-time trend signals into executable go-to-market strategies across Douyin, Xiaohongshu, WeChat, Bilibili, and beyond"
+    },
+    {
+      "name": "civil-engineer",
+      "path": "./skills/civil-engineer/SKILL.md",
+      "description": "Expert civil and structural engineer with global standards coverage — Eurocode, DIN, ACI, AISC, ASCE, AS/NZS, CSA, GB, IS, AIJ, and more. Specializes in structural analysis, geotechnical design, construction documentation, building code compliance, and multi-standard international projects."
+    },
+    {
+      "name": "cloud-security-architect",
+      "path": "./skills/cloud-security-architect/SKILL.md",
+      "description": "Cloud-native security specialist designing zero trust architectures, implementing defense-in-depth across AWS, Azure, and GCP, and securing infrastructure-as-code pipelines from day one."
+    },
+    {
+      "name": "cms-developer",
+      "path": "./skills/cms-developer/SKILL.md",
+      "description": "Drupal and WordPress specialist for theme development, custom plugins/modules, content architecture, and code-first CMS implementation"
+    },
+    {
+      "name": "code-reviewer",
+      "path": "./skills/code-reviewer/SKILL.md",
+      "description": "Expert code reviewer who provides constructive, actionable feedback focused on correctness, maintainability, security, and performance — not style preferences."
+    },
+    {
+      "name": "codebase-onboarding-engineer",
+      "path": "./skills/codebase-onboarding-engineer/SKILL.md",
+      "description": "Expert developer onboarding specialist who helps new engineers understand unfamiliar codebases fast by reading source code, tracing code paths, and stating only facts grounded in the code."
+    },
+    {
+      "name": "compliance-auditor",
+      "path": "./skills/compliance-auditor/SKILL.md",
+      "description": "Expert technical compliance auditor specializing in SOC 2, ISO 27001, HIPAA, and PCI-DSS audits — from readiness assessment through evidence collection to certification."
+    },
+    {
+      "name": "content-creator",
+      "path": "./skills/content-creator/SKILL.md",
+      "description": "Expert content strategist and creator for multi-platform campaigns. Develops editorial calendars, creates compelling copy, manages brand storytelling, and optimizes content for engagement across all digital channels."
+    },
+    {
+      "name": "corporate-training-designer",
+      "path": "./skills/corporate-training-designer/SKILL.md",
+      "description": "Expert in enterprise training system design and curriculum development — proficient in training needs analysis, instructional design methodology, blended learning program design, internal trainer development, leadership programs, and training effectiveness evaluation and continuous optimization."
+    },
+    {
+      "name": "cross-border-e-commerce-specialist",
+      "path": "./skills/cross-border-e-commerce-specialist/SKILL.md",
+      "description": "Full-funnel cross-border e-commerce strategist covering Amazon, Shopee, Lazada, AliExpress, Temu, and TikTok Shop operations, international logistics and overseas warehousing, compliance and taxation, multilingual listing optimization, brand globalization, and DTC independent site development."
+    },
+    {
+      "name": "cultural-intelligence-strategist",
+      "path": "./skills/cultural-intelligence-strategist/SKILL.md",
+      "description": "CQ specialist that detects invisible exclusion, researches global context, and ensures software resonates authentically across intersectional identities."
+    },
+    {
+      "name": "customer-service",
+      "path": "./skills/customer-service/SKILL.md",
+      "description": "Friendly, professional customer service specialist for any industry — handling inquiries, complaints, account support, FAQs, and seamless escalation with warmth, efficiency, and a genuine commitment to customer satisfaction"
+    },
+    {
+      "name": "customer-success-manager",
+      "path": "./skills/customer-success-manager/SKILL.md",
+      "description": "Strategic customer success specialist for onboarding, health scoring, QBR facilitation, churn prevention, expansion identification, and renewal management — driving net revenue retention by turning customers into long-term partners who achieve measurable outcomes"
+    },
+    {
+      "name": "data-consolidation-agent",
+      "path": "./skills/data-consolidation-agent/SKILL.md",
+      "description": "AI agent that consolidates extracted sales data into live reporting dashboards with territory, rep, and pipeline summaries"
+    },
+    {
+      "name": "data-engineer",
+      "path": "./skills/data-engineer/SKILL.md",
+      "description": "Expert data engineer specializing in building reliable data pipelines, lakehouse architectures, and scalable data infrastructure. Masters ETL/ELT, Apache Spark, dbt, streaming systems, and cloud data platforms to turn raw data into trusted, analytics-ready assets."
+    },
+    {
+      "name": "data-privacy-officer",
+      "path": "./skills/data-privacy-officer/SKILL.md",
+      "description": "Corporate data privacy specialist and DPO who builds GDPR, CCPA, and global privacy compliance programs — covering data mapping, privacy impact assessments, consent management, breach response, vendor due diligence, and regulatory engagement."
+    },
+    {
+      "name": "database-optimizer",
+      "path": "./skills/database-optimizer/SKILL.md",
+      "description": "Expert database specialist focusing on schema design, query optimization, indexing strategies, and performance tuning for PostgreSQL, MySQL, and modern databases like Supabase and PlanetScale."
+    },
+    {
+      "name": "deal-strategist",
+      "path": "./skills/deal-strategist/SKILL.md",
+      "description": "Senior deal strategist specializing in MEDDPICC qualification, competitive positioning, and win planning for complex B2B sales cycles. Scores opportunities, exposes pipeline risk, and builds deal strategies that survive forecast review."
+    },
+    {
+      "name": "design-brand-guardian",
+      "path": "./skills/design-brand-guardian/SKILL.md",
+      "description": "Expert brand strategist and guardian specializing in brand identity development, consistency maintenance, and strategic brand positioning"
+    },
+    {
+      "name": "design-image-prompt-engineer",
+      "path": "./skills/design-image-prompt-engineer/SKILL.md",
+      "description": "Expert photography prompt engineer specializing in crafting detailed, evocative prompts for AI image generation. Masters the art of translating visual concepts into precise language that produces stunning, professional-quality photography through generative AI tools."
+    },
+    {
+      "name": "design-inclusive-visuals-specialist",
+      "path": "./skills/design-inclusive-visuals-specialist/SKILL.md",
+      "description": "Representation expert who defeats systemic AI biases to generate culturally accurate, affirming, and non-stereotypical images and video."
+    },
+    {
+      "name": "design-persona-walkthrough",
+      "path": "./skills/design-persona-walkthrough/SKILL.md",
+      "description": "Simulate cognitive walkthroughs of web pages from a defined persona's psychological perspective — captures emotional reactions and rational thought at each scroll position, then delivers structured CRO reports grounded in LIFT, Cialdini, and Fogg frameworks"
+    },
+    {
+      "name": "design-ui-designer",
+      "path": "./skills/design-ui-designer/SKILL.md",
+      "description": "Expert UI designer specializing in visual design systems, component libraries, and pixel-perfect interface creation. Creates beautiful, consistent, accessible user interfaces that enhance UX and reflect brand identity"
+    },
+    {
+      "name": "design-ui-finish-gate-reviewer",
+      "path": "./skills/design-ui-finish-gate-reviewer/SKILL.md",
+      "description": "Product-interface reviewer who catches generic, interchangeable UI before it ships by grounding critique in real product evidence, a written design contract, and a hard implementation finish gate."
+    },
+    {
+      "name": "design-ux-architect",
+      "path": "./skills/design-ux-architect/SKILL.md",
+      "description": "Technical architecture and UX specialist who provides developers with solid foundations, CSS systems, and clear implementation guidance"
+    },
+    {
+      "name": "design-ux-researcher",
+      "path": "./skills/design-ux-researcher/SKILL.md",
+      "description": "Expert user experience researcher specializing in user behavior analysis, usability testing, and data-driven design insights. Provides actionable research findings that improve product usability and user satisfaction"
+    },
+    {
+      "name": "design-visual-storyteller",
+      "path": "./skills/design-visual-storyteller/SKILL.md",
+      "description": "Expert visual communication specialist focused on creating compelling visual narratives, multimedia content, and brand storytelling through design. Specializes in transforming complex information into engaging visual stories that connect with audiences and drive emotional engagement."
+    },
+    {
+      "name": "design-whimsy-injector",
+      "path": "./skills/design-whimsy-injector/SKILL.md",
+      "description": "Expert creative specialist focused on adding personality, delight, and playful elements to brand experiences. Creates memorable, joyful interactions that differentiate brands through unexpected moments of whimsy"
+    },
+    {
+      "name": "developer-advocate",
+      "path": "./skills/developer-advocate/SKILL.md",
+      "description": "Expert developer advocate specializing in building developer communities, creating compelling technical content, optimizing developer experience (DX), and driving platform adoption through authentic engineering engagement. Bridges product and engineering teams with external developers."
+    },
+    {
+      "name": "devops-automator",
+      "path": "./skills/devops-automator/SKILL.md",
+      "description": "Expert DevOps engineer specializing in infrastructure automation, CI/CD pipeline development, and cloud operations"
+    },
+    {
+      "name": "discovery-coach",
+      "path": "./skills/discovery-coach/SKILL.md",
+      "description": "Coaches sales teams on elite discovery methodology — question design, current-state mapping, gap quantification, and call structure that surfaces real buying motivation."
+    },
+    {
+      "name": "document-generator",
+      "path": "./skills/document-generator/SKILL.md",
+      "description": "Expert document creation specialist who generates professional PDF, PPTX, DOCX, and XLSX files using code-based approaches with proper formatting, charts, and data visualization."
+    },
+    {
+      "name": "douyin-strategist",
+      "path": "./skills/douyin-strategist/SKILL.md",
+      "description": "Short-video marketing expert specializing in the Douyin platform, with deep expertise in recommendation algorithm mechanics, viral video planning, livestream commerce workflows, and full-funnel brand growth through content matrix strategies."
+    },
+    {
+      "name": "drone-reality-mapping-specialist",
+      "path": "./skills/drone-reality-mapping-specialist/SKILL.md",
+      "description": "Photogrammetry and reality capture expert who processes drone imagery into orthomosaics, digital terrain models, point clouds, and 3D meshes — bridging field capture and GIS-ready products."
+    },
+    {
+      "name": "drupal-shopping-cart-engineer",
+      "path": "./skills/drupal-shopping-cart-engineer/SKILL.md",
+      "description": "Expert Drupal e-commerce engineer specializing in Drupal Commerce for product catalog management, payment gateway integration, checkout workflow design, order management, tax and promotion configuration, and high-reliability storefront delivery on Drupal 10/11"
+    },
+    {
+      "name": "economy-designer",
+      "path": "./skills/economy-designer/SKILL.md",
+      "description": "Virtual economy architect - Masters currency systems, sources and sinks, monetization modeling, inflation control, and data-driven economic balancing for live games"
+    },
+    {
+      "name": "email-intelligence-engineer",
+      "path": "./skills/email-intelligence-engineer/SKILL.md",
+      "description": "Expert in extracting structured, reasoning-ready data from raw email threads for AI agents and automation systems"
+    },
+    {
+      "name": "email-marketing-strategist",
+      "path": "./skills/email-marketing-strategist/SKILL.md",
+      "description": "Expert email marketing strategist for CRM-driven campaigns, lifecycle automation, segmentation architecture, and deliverability. Designs sequences (welcome, nurture, reactivation, win-back, review, referral) grounded in 2025-2026 benchmarks, AI-driven personalization, and post-Apple MPP measurement."
+    },
+    {
+      "name": "embedded-firmware-engineer",
+      "path": "./skills/embedded-firmware-engineer/SKILL.md",
+      "description": "Specialist in bare-metal and RTOS firmware - ESP32/ESP-IDF, PlatformIO, Arduino, ARM Cortex-M, STM32 HAL/LL, Nordic nRF5/nRF Connect SDK, FreeRTOS, Zephyr"
+    },
+    {
+      "name": "engineering-ai-data-remediation-engineer",
+      "path": "./skills/engineering-ai-data-remediation-engineer/SKILL.md",
+      "description": "Specialist in self-healing data pipelines — uses air-gapped local SLMs and semantic clustering to automatically detect, classify, and fix data anomalies at scale. Focuses exclusively on the remediation layer: intercepting bad data, generating deterministic fix logic via Ollama, and guaranteeing zero data loss. Not a general data engineer — a surgical specialist for when your data is broken and the pipeline can't stop."
+    },
+    {
+      "name": "engineering-ai-engineer",
+      "path": "./skills/engineering-ai-engineer/SKILL.md",
+      "description": "Expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. Focused on building intelligent features, data pipelines, and AI-powered applications with emphasis on practical, scalable solutions."
+    },
+    {
+      "name": "engineering-api-platform-engineer",
+      "path": "./skills/engineering-api-platform-engineer/SKILL.md",
+      "description": "Expert API platform engineer for public and partner APIs — contract-first design (OpenAPI/gRPC), versioning and deprecation policy, SDK generation, API gateway concerns (auth, rate limiting, quotas), and developer-portal DX."
+    },
+    {
+      "name": "engineering-autonomous-optimization-architect",
+      "path": "./skills/engineering-autonomous-optimization-architect/SKILL.md",
+      "description": "Intelligent system governor that continuously shadow-tests APIs for performance while enforcing strict financial and security guardrails against runaway costs."
+    },
+    {
+      "name": "engineering-backend-architect",
+      "path": "./skills/engineering-backend-architect/SKILL.md",
+      "description": "Senior backend architect specializing in scalable system design, database architecture, API development, and cloud infrastructure. Builds robust, secure, performant server-side applications and microservices"
+    },
+    {
+      "name": "engineering-cms-developer",
+      "path": "./skills/engineering-cms-developer/SKILL.md",
+      "description": "Drupal and WordPress specialist for theme development, custom plugins/modules, content architecture, and code-first CMS implementation"
+    },
+    {
+      "name": "engineering-code-reviewer",
+      "path": "./skills/engineering-code-reviewer/SKILL.md",
+      "description": "Expert code reviewer who provides constructive, actionable feedback focused on correctness, maintainability, security, and performance — not style preferences."
+    },
+    {
+      "name": "engineering-codebase-onboarding-engineer",
+      "path": "./skills/engineering-codebase-onboarding-engineer/SKILL.md",
+      "description": "Expert developer onboarding specialist who helps new engineers understand unfamiliar codebases fast by reading source code, tracing code paths, and stating only facts grounded in the code."
+    },
+    {
+      "name": "engineering-data-engineer",
+      "path": "./skills/engineering-data-engineer/SKILL.md",
+      "description": "Expert data engineer specializing in building reliable data pipelines, lakehouse architectures, and scalable data infrastructure. Masters ETL/ELT, Apache Spark, dbt, streaming systems, and cloud data platforms to turn raw data into trusted, analytics-ready assets."
+    },
+    {
+      "name": "engineering-data-visualization-engineer",
+      "path": "./skills/engineering-data-visualization-engineer/SKILL.md",
+      "description": "Expert data visualization engineer — chart-type selection by data and question, perceptually honest encodings, colorblind-safe data palettes, accessible and interactive charts, and rendering large datasets performantly with D3, Vega, and charting libraries."
+    },
+    {
+      "name": "engineering-database-optimizer",
+      "path": "./skills/engineering-database-optimizer/SKILL.md",
+      "description": "Expert database specialist focusing on schema design, query optimization, indexing strategies, and performance tuning for PostgreSQL, MySQL, and modern databases like Supabase and PlanetScale."
+    },
+    {
+      "name": "engineering-database-reliability-engineer",
+      "path": "./skills/engineering-database-reliability-engineer/SKILL.md",
+      "description": "Expert database reliability engineer (DBRE) — high availability and replication, automated failover, backup and point-in-time recovery, zero-downtime online schema migrations, connection pooling, and disaster-recovery drills. Focused on keeping data safe and available, not query tuning."
+    },
+    {
+      "name": "engineering-desktop-app-engineer",
+      "path": "./skills/engineering-desktop-app-engineer/SKILL.md",
+      "description": "Expert desktop application engineer for Electron and Tauri — secure IPC and process isolation, code signing and notarization, auto-update pipelines, native OS integration, and resource-footprint discipline."
+    },
+    {
+      "name": "engineering-developer-tooling-engineer",
+      "path": "./skills/engineering-developer-tooling-engineer/SKILL.md",
+      "description": "Expert developer-tooling and CLI engineer — building command-line tools and internal developer platforms with great DX: intuitive command design, helpful errors, shell completions, fast startup, cross-platform distribution, and scriptable, composable interfaces."
+    },
+    {
+      "name": "engineering-devops-automator",
+      "path": "./skills/engineering-devops-automator/SKILL.md",
+      "description": "Expert DevOps engineer specializing in infrastructure automation, CI/CD pipeline development, and cloud operations"
+    },
+    {
+      "name": "engineering-drupal-performance",
+      "path": "./skills/engineering-drupal-performance/SKILL.md",
+      "description": "Expert Drupal 10/11 performance engineer specializing in Core Web Vitals, render and dynamic page caching, BigPipe, cache tags and contexts, database query and Views optimization, CSS/JS aggregation, responsive images and lazy loading, CDN integration, and opcache/PHP-FPM tuning for fast, audit-passing sites"
+    },
+    {
+      "name": "engineering-drupal-shopping-cart",
+      "path": "./skills/engineering-drupal-shopping-cart/SKILL.md",
+      "description": "Expert Drupal e-commerce engineer specializing in Drupal Commerce for product catalog management, payment gateway integration, checkout workflow design, order management, tax and promotion configuration, and high-reliability storefront delivery on Drupal 10/11"
+    },
+    {
+      "name": "engineering-email-intelligence-engineer",
+      "path": "./skills/engineering-email-intelligence-engineer/SKILL.md",
+      "description": "Expert in extracting structured, reasoning-ready data from raw email threads for AI agents and automation systems"
+    },
+    {
+      "name": "engineering-embedded-firmware-engineer",
+      "path": "./skills/engineering-embedded-firmware-engineer/SKILL.md",
+      "description": "Specialist in bare-metal and RTOS firmware - ESP32/ESP-IDF, PlatformIO, Arduino, ARM Cortex-M, STM32 HAL/LL, Nordic nRF5/nRF Connect SDK, FreeRTOS, Zephyr"
+    },
+    {
+      "name": "engineering-feishu-integration-developer",
+      "path": "./skills/engineering-feishu-integration-developer/SKILL.md",
+      "description": "Full-stack integration expert specializing in the Feishu (Lark) Open Platform — proficient in Feishu bots, mini programs, approval workflows, Bitable (multidimensional spreadsheets), interactive message cards, Webhooks, SSO authentication, and workflow automation, building enterprise-grade collaboration and automation solutions within the Feishu ecosystem."
+    },
+    {
+      "name": "engineering-filament-optimization-specialist",
+      "path": "./skills/engineering-filament-optimization-specialist/SKILL.md",
+      "description": "Expert in restructuring and optimizing Filament PHP admin interfaces for maximum usability and efficiency. Focuses on impactful structural changes — not just cosmetic tweaks."
+    },
+    {
+      "name": "engineering-finops-engineer",
+      "path": "./skills/engineering-finops-engineer/SKILL.md",
+      "description": "Expert cloud cost engineer for AWS/GCP/Azure — cost allocation and tagging, rightsizing, commitment planning (reserved instances/savings plans), egress and storage optimization, and unit-economics dashboards that tie spend to business value."
+    },
+    {
+      "name": "engineering-frontend-developer",
+      "path": "./skills/engineering-frontend-developer/SKILL.md",
+      "description": "Expert frontend developer specializing in modern web technologies, React/Vue/Angular frameworks, UI implementation, and performance optimization"
+    },
+    {
+      "name": "engineering-gaussdb-expert",
+      "path": "./skills/engineering-gaussdb-expert/SKILL.md",
+      "description": "Expert database specialist focusing on GaussDB OLTP — Huawei's self-developed enterprise-grade relational database (NOT GaussDB(DWS) OLAP, NOT GaussDB(for openGauss) cloud service, NOT GaussDB(for MySQL)). Covers schema design, distributed table design, query optimization, indexing, Ustore engine, and performance tuning for both distributed and centralized deployments."
+    },
+    {
+      "name": "engineering-git-workflow-master",
+      "path": "./skills/engineering-git-workflow-master/SKILL.md",
+      "description": "Expert in Git workflows, branching strategies, and version control best practices including conventional commits, rebasing, worktrees, and CI-friendly branch management."
+    },
+    {
+      "name": "engineering-i18n-engineer",
+      "path": "./skills/engineering-i18n-engineer/SKILL.md",
+      "description": "Expert i18n engineer for ICU MessageFormat, CLDR plural rules, RTL and bidirectional layouts, locale-aware date/number/currency formatting, string extraction pipelines, and pseudo-localization testing."
+    },
+    {
+      "name": "engineering-identity-access-engineer",
+      "path": "./skills/engineering-identity-access-engineer/SKILL.md",
+      "description": "Expert identity engineer for OAuth 2.0/OIDC flows, enterprise SSO (SAML/OIDC) and SCIM provisioning, passkeys/WebAuthn, session architecture, and multi-tenant authorization with RBAC/ABAC."
+    },
+    {
+      "name": "engineering-incident-response-commander",
+      "path": "./skills/engineering-incident-response-commander/SKILL.md",
+      "description": "Expert incident commander specializing in production incident management, structured response coordination, post-mortem facilitation, SLO/SLI tracking, and on-call process design for reliable engineering organizations."
+    },
+    {
+      "name": "engineering-iot-fleet-engineer",
+      "path": "./skills/engineering-iot-fleet-engineer/SKILL.md",
+      "description": "Expert IoT and edge fleet engineer — device provisioning and identity, MQTT/telemetry pipelines, staged over-the-air (OTA) firmware updates with rollback, edge compute, and observability across fleets of unreliable, intermittently-connected devices."
+    },
+    {
+      "name": "engineering-it-service-manager",
+      "path": "./skills/engineering-it-service-manager/SKILL.md",
+      "description": "Expert IT service management specialist using ITIL 4 framework for service catalog design, incident and problem management, change control, SLA governance, CMDB maintenance, and continual service improvement — ensuring IT delivers reliable, measurable business value across any organization size"
+    },
+    {
+      "name": "engineering-llm-post-training-engineer",
+      "path": "./skills/engineering-llm-post-training-engineer/SKILL.md",
+      "description": "Evidence-driven owner for SFT, preference optimization, RLHF/RLVR, MoE post-training, and the release gates that turn a checkpoint into a defensible model change."
+    },
+    {
+      "name": "engineering-minimal-change-engineer",
+      "path": "./skills/engineering-minimal-change-engineer/SKILL.md",
+      "description": "Engineering specialist focused on minimum-viable diffs — fixes only what was asked, refuses scope creep, prefers three similar lines over a premature abstraction. The discipline that prevents bug-fix PRs from becoming refactor avalanches."
+    },
+    {
+      "name": "engineering-mobile-app-builder",
+      "path": "./skills/engineering-mobile-app-builder/SKILL.md",
+      "description": "Specialized mobile application developer with expertise in native iOS/Android development and cross-platform frameworks"
+    },
+    {
+      "name": "engineering-mobile-release-engineer",
+      "path": "./skills/engineering-mobile-release-engineer/SKILL.md",
+      "description": "Expert mobile release and distribution engineer for iOS and Android — code signing, provisioning, fastlane pipelines, App Store Connect and Play Console submission, phased rollouts, and crash-triaged release health."
+    },
+    {
+      "name": "engineering-multi-agent-systems-architect",
+      "path": "./skills/engineering-multi-agent-systems-architect/SKILL.md",
+      "description": "Systems architect specializing in the design, coordination, and governance of multi-agent AI pipelines — covering topology selection, context management, inter-agent trust, failure recovery, human-in-the-loop gating, and observability for production-grade agent systems."
+    },
+    {
+      "name": "engineering-network-engineer",
+      "path": "./skills/engineering-network-engineer/SKILL.md",
+      "description": "Expert network engineer for Cisco IOS/IOS-XE, Cisco ASA/FTD, Juniper Junos, and Palo Alto PAN-OS routing, switching, firewalling, and troubleshooting."
+    },
+    {
+      "name": "engineering-orgscript-engineer",
+      "path": "./skills/engineering-orgscript-engineer/SKILL.md",
+      "description": "Expert in designing, parsing, and implementing OrgScript grammar, AST validation, and business logic definitions."
+    },
+    {
+      "name": "engineering-payments-billing-engineer",
+      "path": "./skills/engineering-payments-billing-engineer/SKILL.md",
+      "description": "Expert payments engineer for PSP integrations (Stripe, Adyen, Braintree, PayPal), idempotent payment flows, webhook processing, subscription billing, SCA/3DS, PCI scope reduction, and financial reconciliation."
+    },
+    {
+      "name": "engineering-privacy-engineer",
+      "path": "./skills/engineering-privacy-engineer/SKILL.md",
+      "description": "Expert privacy engineer who implements privacy in code — PII discovery and classification, data minimization, consent enforcement at the API layer, automated DSAR and deletion across services, pseudonymization/tokenization, and retention automation. Builds the technical controls a privacy policy only promises."
+    },
+    {
+      "name": "engineering-prompt-engineer",
+      "path": "./skills/engineering-prompt-engineer/SKILL.md",
+      "description": "Specialist in crafting, testing, and systematically optimizing prompts for LLMs — turning vague instructions into reliable, production-grade AI behaviors."
+    },
+    {
+      "name": "engineering-rag-pipeline-engineer",
+      "path": "./skills/engineering-rag-pipeline-engineer/SKILL.md",
+      "description": "Production RAG specialist focused on chunking strategy, retrieval quality, hybrid search, re-ranking, and eval-driven iteration. Builds pipelines that actually retrieve the right context — not just pipelines that run."
+    },
+    {
+      "name": "engineering-rapid-prototyper",
+      "path": "./skills/engineering-rapid-prototyper/SKILL.md",
+      "description": "Specialized in ultra-fast proof-of-concept development and MVP creation using efficient tools and frameworks"
+    },
+    {
+      "name": "engineering-realtime-collaboration-engineer",
+      "path": "./skills/engineering-realtime-collaboration-engineer/SKILL.md",
+      "description": "Expert realtime systems engineer for WebSocket/SSE infrastructure, presence, CRDT and OT-based collaborative editing, offline-first sync engines, and fan-out scaling with reconnect-safe protocols."
+    },
+    {
+      "name": "engineering-rust-refactoring-specialist",
+      "path": "./skills/engineering-rust-refactoring-specialist/SKILL.md",
+      "description": "Expert Rust engineer for repository-scale refactoring, safe renames, module restructuring, duplication removal, panic hardening, ownership improvements, and compiler or Clippy remediation."
+    },
+    {
+      "name": "engineering-search-relevance-engineer",
+      "path": "./skills/engineering-search-relevance-engineer/SKILL.md",
+      "description": "Expert search engineer for Elasticsearch and OpenSearch — index and analyzer design, BM25 query tuning, hybrid lexical+vector retrieval, and judgment-based relevance evaluation with nDCG and online experiments."
+    },
+    {
+      "name": "engineering-section-508-specialist",
+      "path": "./skills/engineering-section-508-specialist/SKILL.md",
+      "description": "Expert U.S. federal Section 508 accessibility engineer (the 508 legal baseline is WCAG 2.0 Level AA; WCAG 2.1/2.2 AA are recommended best practice, and ADA Title II requires WCAG 2.1 AA for state/local government) specializing in accessible web development, ARIA implementation, screen reader testing (JAWS/NVDA/VoiceOver), keyboard navigation, color contrast, accessible forms and PDFs, VPAT/ACR authoring, automated and manual auditing (axe/WAVE/Lighthouse), and remediation for government and enterprise sites"
+    },
+    {
+      "name": "engineering-senior-developer",
+      "path": "./skills/engineering-senior-developer/SKILL.md",
+      "description": "Premium implementation specialist - Masters Laravel/Livewire/FluxUI, advanced CSS, Three.js integration"
+    },
+    {
+      "name": "engineering-software-architect",
+      "path": "./skills/engineering-software-architect/SKILL.md",
+      "description": "Expert software architect specializing in system design, domain-driven design, architectural patterns, and technical decision-making for scalable, maintainable systems."
+    },
+    {
+      "name": "engineering-solidity-smart-contract-engineer",
+      "path": "./skills/engineering-solidity-smart-contract-engineer/SKILL.md",
+      "description": "Expert Solidity developer specializing in EVM smart contract architecture, gas optimization, upgradeable proxy patterns, DeFi protocol development, and security-first contract design across Ethereum and L2 chains."
+    },
+    {
+      "name": "engineering-sre",
+      "path": "./skills/engineering-sre/SKILL.md",
+      "description": "Expert site reliability engineer specializing in SLOs, error budgets, observability, chaos engineering, and toil reduction for production systems at scale."
+    },
+    {
+      "name": "engineering-technical-writer",
+      "path": "./skills/engineering-technical-writer/SKILL.md",
+      "description": "Expert technical writer specializing in developer documentation, API references, README files, and tutorials. Transforms complex engineering concepts into clear, accurate, and engaging docs that developers actually read and use."
+    },
+    {
+      "name": "engineering-uswds-developer",
+      "path": "./skills/engineering-uswds-developer/SKILL.md",
+      "description": "Expert U.S. Web Design System frontend developer specializing in USWDS components and design tokens, accessible-by-default patterns, responsive government UI, Sass settings/theming, the federal design language, integration into CMS platforms (Drupal/WordPress), and compliance with 21st Century IDEA and the Federal Website Standards"
+    },
+    {
+      "name": "engineering-video-streaming-engineer",
+      "path": "./skills/engineering-video-streaming-engineer/SKILL.md",
+      "description": "Expert video streaming engineer for adaptive bitrate delivery — HLS/DASH packaging, ffmpeg transcode ladders, CMAF low-latency, DRM, CDN delivery, and QoE-driven player tuning."
+    },
+    {
+      "name": "engineering-voice-ai-integration-engineer",
+      "path": "./skills/engineering-voice-ai-integration-engineer/SKILL.md",
+      "description": "Expert in building end-to-end speech transcription pipelines using Whisper-style models and cloud ASR services — from raw audio ingestion through preprocessing, transcript cleanup, subtitle generation, speaker diarization, and structured downstream integration into apps, APIs, and CMS platforms."
+    },
+    {
+      "name": "engineering-webassembly-engineer",
+      "path": "./skills/engineering-webassembly-engineer/SKILL.md",
+      "description": "Expert WebAssembly engineer — compiling Rust/C++/Go to Wasm, JS interop and the boundary marshalling cost, WASI and server-side runtimes (Wasmtime/Wasmer), the component model, and near-native performance tuning."
+    },
+    {
+      "name": "engineering-wechat-mini-program-developer",
+      "path": "./skills/engineering-wechat-mini-program-developer/SKILL.md",
+      "description": "Expert WeChat Mini Program developer specializing in 小程序 development with WXML/WXSS/WXS, WeChat API integration, payment systems, subscription messaging, and the full WeChat ecosystem."
+    },
+    {
+      "name": "engineering-wordpress-performance",
+      "path": "./skills/engineering-wordpress-performance/SKILL.md",
+      "description": "Expert WordPress performance engineer specializing in Core Web Vitals, object caching (Redis/Memcached), page caching, database and WP_Query optimization, the Transients API, asset minification/deferral/critical CSS, image optimization and lazy loading, CDN integration, plugin performance auditing, and PHP-FPM/opcache tuning for fast, audit-passing sites"
+    },
+    {
+      "name": "engineering-wordpress-shopping-cart",
+      "path": "./skills/engineering-wordpress-shopping-cart/SKILL.md",
+      "description": "Expert WordPress e-commerce engineer specializing in WooCommerce for product catalog management, payment gateway integration, checkout customization, order management, tax and coupon configuration, and conversion-optimized storefront delivery on WordPress"
+    },
+    {
+      "name": "esg-sustainability-officer",
+      "path": "./skills/esg-sustainability-officer/SKILL.md",
+      "description": "Corporate sustainability strategist and ESG reporting specialist who builds environmental, social, and governance programs, manages disclosures, drives decarbonization initiatives, and aligns business strategy with stakeholder and regulatory expectations."
+    },
+    {
+      "name": "evidence-collector",
+      "path": "./skills/evidence-collector/SKILL.md",
+      "description": "Screenshot-obsessed, fantasy-allergic QA specialist - Default to finding 3-5 issues, requires visual proof for everything"
+    },
+    {
+      "name": "EXECUTIVE-BRIEF",
+      "path": "./skills/EXECUTIVE-BRIEF/SKILL.md",
+      "description": "📑 NEXUS Executive Brief"
+    },
+    {
+      "name": "executive-summary-generator",
+      "path": "./skills/executive-summary-generator/SKILL.md",
+      "description": "Consultant-grade AI specialist trained to think and communicate like a senior strategy consultant. Transforms complex business inputs into concise, actionable executive summaries using McKinsey SCQA, BCG Pyramid Principle, and Bain frameworks for C-suite decision-makers."
+    },
+    {
+      "name": "experiment-tracker",
+      "path": "./skills/experiment-tracker/SKILL.md",
+      "description": "Expert project manager specializing in experiment design, execution tracking, and data-driven decision making. Focused on managing A/B tests, feature experiments, and hypothesis validation through systematic experimentation and rigorous analysis."
+    },
+    {
+      "name": "feedback-synthesizer",
+      "path": "./skills/feedback-synthesizer/SKILL.md",
+      "description": "Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strategic recommendations."
+    },
+    {
+      "name": "feishu-integration-developer",
+      "path": "./skills/feishu-integration-developer/SKILL.md",
+      "description": "Full-stack integration expert specializing in the Feishu (Lark) Open Platform — proficient in Feishu bots, mini programs, approval workflows, Bitable (multidimensional spreadsheets), interactive message cards, Webhooks, SSO authentication, and workflow automation, building enterprise-grade collaboration and automation solutions within the Feishu ecosystem."
+    },
+    {
+      "name": "filament-optimization-specialist",
+      "path": "./skills/filament-optimization-specialist/SKILL.md",
+      "description": "Expert in restructuring and optimizing Filament PHP admin interfaces for maximum usability and efficiency. Focuses on impactful structural changes — not just cosmetic tweaks."
+    },
+    {
+      "name": "finance-bookkeeper-controller",
+      "path": "./skills/finance-bookkeeper-controller/SKILL.md",
+      "description": "Expert bookkeeper and controller specializing in day-to-day accounting operations, financial reconciliations, month-end close processes, and internal controls. Ensures the accuracy, completeness, and timeliness of financial records while maintaining GAAP compliance and audit readiness at all times."
+    },
+    {
+      "name": "finance-financial-analyst",
+      "path": "./skills/finance-financial-analyst/SKILL.md",
+      "description": "Expert financial analyst specializing in financial modeling, forecasting, scenario analysis, and data-driven decision support. Transforms raw financial data into actionable business intelligence that drives strategic planning, investment decisions, and operational optimization."
+    },
+    {
+      "name": "finance-fpa-analyst",
+      "path": "./skills/finance-fpa-analyst/SKILL.md",
+      "description": "Expert Financial Planning & Analysis (FP&A) analyst specializing in budgeting, variance analysis, financial planning, rolling forecasts, and strategic decision support. Bridges the gap between the numbers and the business narrative to drive operational performance and strategic resource allocation."
+    },
+    {
+      "name": "finance-investment-researcher",
+      "path": "./skills/finance-investment-researcher/SKILL.md",
+      "description": "Expert investment researcher specializing in market research, due diligence, portfolio analysis, and asset valuation. Conducts rigorous fundamental and quantitative analysis to identify investment opportunities, assess risks, and support data-driven portfolio decisions across public equities, private markets, and alternative assets."
+    },
+    {
+      "name": "finance-tax-strategist",
+      "path": "./skills/finance-tax-strategist/SKILL.md",
+      "description": "Expert tax strategist specializing in tax optimization, multi-jurisdictional compliance, transfer pricing, and strategic tax planning. Navigates complex tax codes to minimize liability while ensuring full regulatory compliance across local, state, federal, and international tax regimes."
+    },
+    {
+      "name": "finance-tracker",
+      "path": "./skills/finance-tracker/SKILL.md",
+      "description": "Expert financial analyst and controller specializing in financial planning, budget management, and business performance analysis. Maintains financial health, optimizes cash flow, and provides strategic financial insights for business growth."
+    },
+    {
+      "name": "financial-analyst",
+      "path": "./skills/financial-analyst/SKILL.md",
+      "description": "Expert financial analyst specializing in financial modeling, forecasting, scenario analysis, and data-driven decision support. Transforms raw financial data into actionable business intelligence that drives strategic planning, investment decisions, and operational optimization."
+    },
+    {
+      "name": "fp-a-analyst",
+      "path": "./skills/fp-a-analyst/SKILL.md",
+      "description": "Expert Financial Planning & Analysis (FP&A) analyst specializing in budgeting, variance analysis, financial planning, rolling forecasts, and strategic decision support. Bridges the gap between the numbers and the business narrative to drive operational performance and strategic resource allocation."
+    },
+    {
+      "name": "french-consulting-market-navigator",
+      "path": "./skills/french-consulting-market-navigator/SKILL.md",
+      "description": "Navigate the French ESN/SI freelance ecosystem — margin models, platform mechanics (Malt, collective.work), portage salarial, rate positioning, and payment cycle realities"
+    },
+    {
+      "name": "frontend-developer",
+      "path": "./skills/frontend-developer/SKILL.md",
+      "description": "Expert frontend developer specializing in modern web technologies, React/Vue/Angular frameworks, UI implementation, and performance optimization"
+    },
+    {
+      "name": "game-audio-engineer",
+      "path": "./skills/game-audio-engineer/SKILL.md",
+      "description": "Interactive audio specialist - Masters FMOD/Wwise integration, adaptive music systems, spatial audio, and audio performance budgeting across all game engines"
+    },
+    {
+      "name": "game-designer",
+      "path": "./skills/game-designer/SKILL.md",
+      "description": "Systems and mechanics architect - Masters GDD authorship, player psychology, economy balancing, and gameplay loop design across all engines and genres"
+    },
+    {
+      "name": "geoai-ml-engineer",
+      "path": "./skills/geoai-ml-engineer/SKILL.md",
+      "description": "Geospatial machine learning specialist who builds models for feature extraction, object detection, image segmentation, and land cover classification from satellite and aerial imagery."
+    },
+    {
+      "name": "geographer",
+      "path": "./skills/geographer/SKILL.md",
+      "description": "Expert in physical and human geography, climate systems, cartography, and spatial analysis — builds geographically coherent worlds where terrain, climate, resources, and settlement patterns make scientific sense"
+    },
+    {
+      "name": "geoprocessing-specialist",
+      "path": "./skills/geoprocessing-specialist/SKILL.md",
+      "description": "ArcPy and Python toolbox expert who automates spatial workflows — builds .pyt toolboxes, Model Builder processes, batch geoprocessing automation, and custom analysis scripts for ArcGIS Pro."
+    },
+    {
+      "name": "gis-3d-scene-developer",
+      "path": "./skills/gis-3d-scene-developer/SKILL.md",
+      "description": "Web 3D visualization specialist who creates immersive 3D scenes, terrain models, point cloud visualizations, and interactive web experiences using Cesium, ArcGIS Scene Viewer, and modern 3D web frameworks."
+    },
+    {
+      "name": "gis-analyst",
+      "path": "./skills/gis-analyst/SKILL.md",
+      "description": "Day-to-day GIS operator who creates maps, manages layers, performs spatial queries, and maintains geospatial data integrity across desktop and web environments."
+    },
+    {
+      "name": "gis-bim-specialist",
+      "path": "./skills/gis-bim-specialist/SKILL.md",
+      "description": "Integration specialist who bridges Building Information Modeling and Geographic Information Systems — Revit/IFC data conversion, indoor mapping, digital twin architecture, and facility management data models."
+    },
+    {
+      "name": "gis-cartography-designer",
+      "path": "./skills/gis-cartography-designer/SKILL.md",
+      "description": "Map aesthetics specialist who designs beautiful, readable, and effective maps — color theory, typography, label placement, basemap selection, and visual hierarchy for both print and web."
+    },
+    {
+      "name": "gis-drone-reality-mapping",
+      "path": "./skills/gis-drone-reality-mapping/SKILL.md",
+      "description": "Photogrammetry and reality capture expert who processes drone imagery into orthomosaics, digital terrain models, point clouds, and 3D meshes — bridging field capture and GIS-ready products."
+    },
+    {
+      "name": "gis-geoai-ml-engineer",
+      "path": "./skills/gis-geoai-ml-engineer/SKILL.md",
+      "description": "Geospatial machine learning specialist who builds models for feature extraction, object detection, image segmentation, and land cover classification from satellite and aerial imagery."
+    },
+    {
+      "name": "gis-geoprocessing-specialist",
+      "path": "./skills/gis-geoprocessing-specialist/SKILL.md",
+      "description": "ArcPy and Python toolbox expert who automates spatial workflows — builds .pyt toolboxes, Model Builder processes, batch geoprocessing automation, and custom analysis scripts for ArcGIS Pro."
+    },
+    {
+      "name": "gis-qa-engineer",
+      "path": "./skills/gis-qa-engineer/SKILL.md",
+      "description": "Quality assurance specialist who validates geospatial data integrity — topology checks, metadata audits, CRS consistency, accuracy assessment, and compliance verification."
+    },
+    {
+      "name": "gis-solution-engineer",
+      "path": "./skills/gis-solution-engineer/SKILL.md",
+      "description": "Hands-on GIS prototype builder who takes strategy from Technical Consultant and turns it into working demos, proof-of-concepts, and technical validations across the full Esri and open-source stack."
+    },
+    {
+      "name": "gis-spatial-data-engineer",
+      "path": "./skills/gis-spatial-data-engineer/SKILL.md",
+      "description": "ETL specialist who transforms messy geospatial data from any source into clean, standardized, production-ready datasets — format conversion, CRS reprojection, attribute normalization, and automated pipelines."
+    },
+    {
+      "name": "gis-spatial-data-scientist",
+      "path": "./skills/gis-spatial-data-scientist/SKILL.md",
+      "description": "Advanced spatial analytics specialist who applies statistical modeling, spatial econometrics, clustering, and predictive analytics to geospatial data — finding patterns that aren't visible on a map."
+    },
+    {
+      "name": "gis-technical-consultant",
+      "path": "./skills/gis-technical-consultant/SKILL.md",
+      "description": "Strategic GIS advisor who translates business problems into geospatial solutions — gap analysis, technology roadmaps, RFP responses, and digital transformation strategy across Esri and open-source ecosystems."
+    },
+    {
+      "name": "gis-web-gis-developer",
+      "path": "./skills/gis-web-gis-developer/SKILL.md",
+      "description": "Full-stack web GIS engineer who builds interactive mapping applications — MapLibre GL JS, ArcGIS JS API, Leaflet, real-time dashboards, REST API integration, and geospatial web services."
+    },
+    {
+      "name": "git-workflow-master",
+      "path": "./skills/git-workflow-master/SKILL.md",
+      "description": "Expert in Git workflows, branching strategies, and version control best practices including conventional commits, rebasing, worktrees, and CI-friendly branch management."
+    },
+    {
+      "name": "global-podcast-strategist",
+      "path": "./skills/global-podcast-strategist/SKILL.md",
+      "description": "Expert podcast growth specialist focused on show positioning, audience development, content strategy, and monetisation. Transforms raw ideas into authoritative audio brands that compound listeners and revenue over time on Spotify, Apple Podcasts, and YouTube."
+    },
+    {
+      "name": "godot-gameplay-scripter",
+      "path": "./skills/godot-gameplay-scripter/SKILL.md",
+      "description": "Composition and signal integrity specialist - Masters GDScript 2.0, C# integration, node-based architecture, and type-safe signal design for Godot 4 projects"
+    },
+    {
+      "name": "godot-multiplayer-engineer",
+      "path": "./skills/godot-multiplayer-engineer/SKILL.md",
+      "description": "Godot 4 networking specialist - Masters the MultiplayerAPI, scene replication, ENet/WebRTC transport, RPCs, and authority models for real-time multiplayer games"
+    },
+    {
+      "name": "godot-shader-developer",
+      "path": "./skills/godot-shader-developer/SKILL.md",
+      "description": "Godot 4 visual effects specialist - Masters the Godot Shading Language (GLSL-like), VisualShader editor, CanvasItem and Spatial shaders, post-processing, and performance optimization for 2D/3D effects"
+    },
+    {
+      "name": "government-digital-presales-consultant",
+      "path": "./skills/government-digital-presales-consultant/SKILL.md",
+      "description": "Presales expert for China's government digital transformation market (ToG), proficient in policy interpretation, solution design, bid document preparation, POC validation, compliance requirements (classified protection/cryptographic assessment/Xinchuang domestic IT), and stakeholder management — helping technical teams efficiently win government IT projects."
+    },
+    {
+      "name": "grant-writer",
+      "path": "./skills/grant-writer/SKILL.md",
+      "description": "Expert grant writing specialist for nonprofits, research institutions, and social enterprises — covering prospect research, letter of inquiry writing, full proposal development, budget narratives, federal and foundation grants, and post-award reporting to maximize funding success"
+    },
+    {
+      "name": "growth-hacker",
+      "path": "./skills/growth-hacker/SKILL.md",
+      "description": "Expert growth strategist specializing in rapid user acquisition through data-driven experimentation. Develops viral loops, optimizes conversion funnels, and finds scalable growth channels for exponential business growth."
+    },
+    {
+      "name": "handoff-templates",
+      "path": "./skills/handoff-templates/SKILL.md",
+      "description": "📋 NEXUS Handoff Templates"
+    },
+    {
+      "name": "healthcare-aging-parent-care-companion",
+      "path": "./skills/healthcare-aging-parent-care-companion/SKILL.md",
+      "description": "Compassionate, HIPAA-aligned care coordination and decision-support agent for family caregivers managing an aging parent's appointments, medications, care team communication, and their own caregiver wellbeing"
+    },
+    {
+      "name": "healthcare-clinical-evidence-agent",
+      "path": "./skills/healthcare-clinical-evidence-agent/SKILL.md",
+      "description": "Evidence standards and clinical credibility framework for AI agents"
+    },
+    {
+      "name": "healthcare-customer-service",
+      "path": "./skills/healthcare-customer-service/SKILL.md",
+      "description": "Empathetic healthcare customer service specialist for patient support, billing inquiries, appointment management, insurance questions, complaint resolution, and seamless escalation to clinical or administrative staff"
+    },
+    {
+      "name": "healthcare-innovation-strategist",
+      "path": "./skills/healthcare-innovation-strategist/SKILL.md",
+      "description": "Strategic narrative architect for healthcare founders operating at"
+    },
+    {
+      "name": "healthcare-marketing-compliance",
+      "path": "./skills/healthcare-marketing-compliance/SKILL.md",
+      "description": "Expert in healthcare marketing compliance in China, proficient in the Advertising Law, Medical Advertisement Management Measures, Drug Administration Law, and related regulations — covering pharmaceuticals, medical devices, medical aesthetics, health supplements, and internet healthcare across content review, risk control, platform rule interpretation, and patient privacy protection, helping enterprises conduct effective health marketing within legal boundaries."
+    },
+    {
+      "name": "healthcare-marketing-compliance-specialist",
+      "path": "./skills/healthcare-marketing-compliance-specialist/SKILL.md",
+      "description": "Expert in healthcare marketing compliance in China, proficient in the Advertising Law, Medical Advertisement Management Measures, Drug Administration Law, and related regulations — covering pharmaceuticals, medical devices, medical aesthetics, health supplements, and internet healthcare across content review, risk control, platform rule interpretation, and patient privacy protection, helping enterprises conduct effective health marketing within legal boundaries."
+    },
+    {
+      "name": "healthcare-sovereign-health-systems-agent",
+      "path": "./skills/healthcare-sovereign-health-systems-agent/SKILL.md",
+      "description": "Government health mandate engagement framework for AI agents"
+    },
+    {
+      "name": "historian",
+      "path": "./skills/historian/SKILL.md",
+      "description": "Expert in historical analysis, periodization, material culture, and historiography — validates historical coherence and enriches settings with authentic period detail grounded in primary and secondary sources"
+    },
+    {
+      "name": "hospitality-guest-services",
+      "path": "./skills/hospitality-guest-services/SKILL.md",
+      "description": "Comprehensive hospitality guest services specialist for hotels, resorts, restaurants, and event venues — covering reservations, check-in/check-out, concierge services, guest complaint resolution, loyalty program management, and post-stay follow-up to deliver exceptional guest experiences that drive loyalty and revenue"
+    },
+    {
+      "name": "hr-onboarding",
+      "path": "./skills/hr-onboarding/SKILL.md",
+      "description": "Comprehensive HR onboarding specialist for employee orientation, documentation management, compliance tracking, benefits enrollment, culture integration, and new hire support — delivering a seamless first-day-to-first-year experience that drives retention and productivity"
+    },
+    {
+      "name": "IDENTITY",
+      "path": "./skills/IDENTITY/SKILL.md",
+      "description": "🗃️ ZK Steward"
+    },
+    {
+      "name": "identity-graph-operator",
+      "path": "./skills/identity-graph-operator/SKILL.md",
+      "description": "Operates a shared identity graph that multiple AI agents resolve against. Ensures every agent in a multi-agent system gets the same canonical answer for \"who is this entity?\" - deterministically, even under concurrent writes."
+    },
+    {
+      "name": "image-prompt-engineer",
+      "path": "./skills/image-prompt-engineer/SKILL.md",
+      "description": "Expert photography prompt engineer specializing in crafting detailed, evocative prompts for AI image generation. Masters the art of translating visual concepts into precise language that produces stunning, professional-quality photography through generative AI tools."
+    },
+    {
+      "name": "incident-responder",
+      "path": "./skills/incident-responder/SKILL.md",
+      "description": "Digital forensics and incident response specialist who leads breach investigations, contains active threats, coordinates crisis response, and writes post-mortems that prevent recurrence."
+    },
+    {
+      "name": "incident-response-commander",
+      "path": "./skills/incident-response-commander/SKILL.md",
+      "description": "Expert incident commander specializing in production incident management, structured response coordination, post-mortem facilitation, SLO/SLI tracking, and on-call process design for reliable engineering organizations."
+    },
+    {
+      "name": "inclusive-visuals-specialist",
+      "path": "./skills/inclusive-visuals-specialist/SKILL.md",
+      "description": "Representation expert who defeats systemic AI biases to generate culturally accurate, affirming, and non-stereotypical images and video."
+    },
+    {
+      "name": "infrastructure-maintainer",
+      "path": "./skills/infrastructure-maintainer/SKILL.md",
+      "description": "Expert infrastructure specialist focused on system reliability, performance optimization, and technical operations management. Maintains robust, scalable infrastructure supporting business operations with security, performance, and cost efficiency."
+    },
+    {
+      "name": "instagram-curator",
+      "path": "./skills/instagram-curator/SKILL.md",
+      "description": "Expert Instagram marketing specialist focused on visual storytelling, community building, and multi-format content optimization. Masters aesthetic development and drives meaningful engagement."
+    },
+    {
+      "name": "investment-researcher",
+      "path": "./skills/investment-researcher/SKILL.md",
+      "description": "Expert investment researcher specializing in market research, due diligence, portfolio analysis, and asset valuation. Conducts rigorous fundamental and quantitative analysis to identify investment opportunities, assess risks, and support data-driven portfolio decisions across public equities, private markets, and alternative assets."
+    },
+    {
+      "name": "it-service-manager",
+      "path": "./skills/it-service-manager/SKILL.md",
+      "description": "Expert IT service management specialist using ITIL 4 framework for service catalog design, incident and problem management, change control, SLA governance, CMDB maintenance, and continual service improvement — ensuring IT delivers reliable, measurable business value across any organization size"
+    },
+    {
+      "name": "jira-workflow-steward",
+      "path": "./skills/jira-workflow-steward/SKILL.md",
+      "description": "Expert delivery operations specialist who enforces Jira-linked Git workflows, traceable commits, structured pull requests, and release-safe branch strategy across software teams."
+    },
+    {
+      "name": "korean-business-navigator",
+      "path": "./skills/korean-business-navigator/SKILL.md",
+      "description": "Korean business culture for foreign professionals — 품의 decision process, nunchi reading, KakaoTalk business etiquette, hierarchy navigation, and relationship-first deal mechanics"
+    },
+    {
+      "name": "kuaishou-strategist",
+      "path": "./skills/kuaishou-strategist/SKILL.md",
+      "description": "Expert Kuaishou marketing strategist specializing in short-video content for China's lower-tier city markets, live commerce operations, community trust building, and grassroots audience growth on 快手."
+    },
+    {
+      "name": "language-translator",
+      "path": "./skills/language-translator/SKILL.md",
+      "description": "Real-time Spanish ↔ English translation specialist with cultural context, regional dialect awareness, travel phrase guidance, and tone-appropriate communication for everyday, business, and emergency situations"
+    },
+    {
+      "name": "legal-billing-time-tracking",
+      "path": "./skills/legal-billing-time-tracking/SKILL.md",
+      "description": "Comprehensive legal billing and time tracking specialist for accurate time capture, invoice generation, billing narrative writing, collections management, trust account compliance, and billing analysis — maximizing revenue recovery while maintaining client relationships and ethical compliance across any firm size or billing model"
+    },
+    {
+      "name": "legal-client-intake",
+      "path": "./skills/legal-client-intake/SKILL.md",
+      "description": "Comprehensive legal client intake specialist for qualifying prospects, collecting case information, scheduling consultations, managing conflict checks, and delivering attorney-ready intake summaries across any practice area and firm size"
+    },
+    {
+      "name": "legal-compliance-checker",
+      "path": "./skills/legal-compliance-checker/SKILL.md",
+      "description": "Expert legal and compliance specialist ensuring business operations, data handling, and content creation comply with relevant laws, regulations, and industry standards across multiple jurisdictions."
+    },
+    {
+      "name": "legal-document-review",
+      "path": "./skills/legal-document-review/SKILL.md",
+      "description": "Comprehensive legal document review specialist for contracts, litigation documents, and real estate agreements — summarizing documents, flagging risk clauses, comparing contract versions, and checking compliance across any law firm size or practice area"
+    },
+    {
+      "name": "level-designer",
+      "path": "./skills/level-designer/SKILL.md",
+      "description": "Spatial storytelling and flow specialist - Masters layout theory, pacing architecture, encounter design, and environmental narrative across all game engines"
+    },
+    {
+      "name": "linkedin-content-creator",
+      "path": "./skills/linkedin-content-creator/SKILL.md",
+      "description": "Expert LinkedIn content strategist focused on thought leadership, personal brand building, and high-engagement professional content. Masters LinkedIn's algorithm and culture to drive inbound opportunities for founders, job seekers, developers, and anyone building a professional presence."
+    },
+    {
+      "name": "livestream-commerce-coach",
+      "path": "./skills/livestream-commerce-coach/SKILL.md",
+      "description": "Veteran livestream e-commerce coach specializing in host training and live room operations across Douyin, Kuaishou, Taobao Live, and Channels, covering script design, product sequencing, paid-vs-organic traffic balancing, conversion closing techniques, and real-time data-driven optimization."
+    },
+    {
+      "name": "loan-officer-assistant",
+      "path": "./skills/loan-officer-assistant/SKILL.md",
+      "description": "Comprehensive loan officer assistant for mortgage and lending professionals — covering borrower intake, pre-qualification, document collection, pipeline management, compliance tracking, rate quoting, and closing coordination across residential, commercial, and consumer lending"
+    },
+    {
+      "name": "lsp-index-engineer",
+      "path": "./skills/lsp-index-engineer/SKILL.md",
+      "description": "Language Server Protocol specialist building unified code intelligence systems through LSP client orchestration and semantic indexing"
+    },
+    {
+      "name": "m-a-integration-manager",
+      "path": "./skills/m-a-integration-manager/SKILL.md",
+      "description": "Mergers and acquisitions integration specialist who designs and executes post-merger integration programs — covering Day 1 readiness, 100-day planning, synergy tracking, cultural integration, functional workstream coordination, and transition service agreement management."
+    },
+    {
+      "name": "ma-integration-manager",
+      "path": "./skills/ma-integration-manager/SKILL.md",
+      "description": "Mergers and acquisitions integration specialist who designs and executes post-merger integration programs — covering Day 1 readiness, 100-day planning, synergy tracking, cultural integration, functional workstream coordination, and transition service agreement management."
+    },
+    {
+      "name": "macos-spatial-metal-engineer",
+      "path": "./skills/macos-spatial-metal-engineer/SKILL.md",
+      "description": "Native Swift and Metal specialist building high-performance 3D rendering systems and spatial computing experiences for macOS and Vision Pro"
+    },
+    {
+      "name": "marketing",
+      "path": "./skills/marketing/SKILL.md",
+      "description": "Use for growth marketing, SEO planning, search optimizations, content creation, social media outreach, and podcast/email strategies."
+    },
+    {
+      "name": "marketing-aeo-foundations",
+      "path": "./skills/marketing-aeo-foundations/SKILL.md",
+      "description": "Expert in AI Engine Optimization infrastructure — implements llms.txt, AI-aware robots.txt, token-budgeted content, structured Markdown availability, and agent discovery files so AI crawlers, citation engines, and browsing agents can find, parse, and act on your site"
+    },
+    {
+      "name": "marketing-agentic-search-optimizer",
+      "path": "./skills/marketing-agentic-search-optimizer/SKILL.md",
+      "description": "Expert in WebMCP readiness and agentic task completion — audits whether AI agents can actually accomplish tasks on your site (book, buy, register, subscribe), implements WebMCP declarative and imperative patterns, and measures task completion rates across AI browsing agents"
+    },
+    {
+      "name": "marketing-ai-citation-strategist",
+      "path": "./skills/marketing-ai-citation-strategist/SKILL.md",
+      "description": "Expert in AI recommendation engine optimization (AEO/GEO) — audits brand visibility across ChatGPT, Claude, Gemini, and Perplexity, identifies why competitors get cited instead, and delivers content fixes that improve AI citations"
+    },
+    {
+      "name": "marketing-app-store-optimizer",
+      "path": "./skills/marketing-app-store-optimizer/SKILL.md",
+      "description": "Expert app store marketing specialist focused on App Store Optimization (ASO), conversion rate optimization, and app discoverability"
+    },
+    {
+      "name": "marketing-baidu-seo-specialist",
+      "path": "./skills/marketing-baidu-seo-specialist/SKILL.md",
+      "description": "Expert Baidu search optimization specialist focused on Chinese search engine ranking, Baidu ecosystem integration, ICP compliance, Chinese keyword research, and mobile-first indexing for the China market."
+    },
+    {
+      "name": "marketing-bilibili-content-strategist",
+      "path": "./skills/marketing-bilibili-content-strategist/SKILL.md",
+      "description": "Expert Bilibili marketing specialist focused on UP主 growth, danmaku culture mastery, B站 algorithm optimization, community building, and branded content strategy for China's leading video community platform."
+    },
+    {
+      "name": "marketing-book-co-author",
+      "path": "./skills/marketing-book-co-author/SKILL.md",
+      "description": "Strategic thought-leadership book collaborator for founders, experts, and operators turning voice notes, fragments, and positioning into structured first-person chapters."
+    },
+    {
+      "name": "marketing-carousel-growth-engine",
+      "path": "./skills/marketing-carousel-growth-engine/SKILL.md",
+      "description": "Autonomous TikTok and Instagram carousel generation specialist. Analyzes any website URL with Playwright, generates viral 6-slide carousels via Gemini image generation, publishes directly to feed via Upload-Post API with auto trending music, fetches analytics, and iteratively improves through a data-driven learning loop."
+    },
+    {
+      "name": "marketing-china-ecommerce-operator",
+      "path": "./skills/marketing-china-ecommerce-operator/SKILL.md",
+      "description": "Expert China e-commerce operations specialist covering Taobao, Tmall, Pinduoduo, and JD ecosystems with deep expertise in product listing optimization, live commerce, store operations, 618/Double 11 campaigns, and cross-platform strategy."
+    },
+    {
+      "name": "marketing-china-market-localization-strategist",
+      "path": "./skills/marketing-china-market-localization-strategist/SKILL.md",
+      "description": "Full-stack China market localization expert who transforms real-time trend signals into executable go-to-market strategies across Douyin, Xiaohongshu, WeChat, Bilibili, and beyond"
+    },
+    {
+      "name": "marketing-content-creator",
+      "path": "./skills/marketing-content-creator/SKILL.md",
+      "description": "Expert content strategist and creator for multi-platform campaigns. Develops editorial calendars, creates compelling copy, manages brand storytelling, and optimizes content for engagement across all digital channels."
+    },
+    {
+      "name": "marketing-cross-border-ecommerce",
+      "path": "./skills/marketing-cross-border-ecommerce/SKILL.md",
+      "description": "Full-funnel cross-border e-commerce strategist covering Amazon, Shopee, Lazada, AliExpress, Temu, and TikTok Shop operations, international logistics and overseas warehousing, compliance and taxation, multilingual listing optimization, brand globalization, and DTC independent site development."
+    },
+    {
+      "name": "marketing-douyin-strategist",
+      "path": "./skills/marketing-douyin-strategist/SKILL.md",
+      "description": "Short-video marketing expert specializing in the Douyin platform, with deep expertise in recommendation algorithm mechanics, viral video planning, livestream commerce workflows, and full-funnel brand growth through content matrix strategies."
+    },
+    {
+      "name": "marketing-email-strategist",
+      "path": "./skills/marketing-email-strategist/SKILL.md",
+      "description": "Expert email marketing strategist for CRM-driven campaigns, lifecycle automation, segmentation architecture, and deliverability. Designs sequences (welcome, nurture, reactivation, win-back, review, referral) grounded in 2025-2026 benchmarks, AI-driven personalization, and post-Apple MPP measurement."
+    },
+    {
+      "name": "marketing-global-podcast-strategist",
+      "path": "./skills/marketing-global-podcast-strategist/SKILL.md",
+      "description": "Expert podcast growth specialist focused on show positioning, audience development, content strategy, and monetisation. Transforms raw ideas into authoritative audio brands that compound listeners and revenue over time on Spotify, Apple Podcasts, and YouTube."
+    },
+    {
+      "name": "marketing-growth-hacker",
+      "path": "./skills/marketing-growth-hacker/SKILL.md",
+      "description": "Expert growth strategist specializing in rapid user acquisition through data-driven experimentation. Develops viral loops, optimizes conversion funnels, and finds scalable growth channels for exponential business growth."
+    },
+    {
+      "name": "marketing-instagram-curator",
+      "path": "./skills/marketing-instagram-curator/SKILL.md",
+      "description": "Expert Instagram marketing specialist focused on visual storytelling, community building, and multi-format content optimization. Masters aesthetic development and drives meaningful engagement."
+    },
+    {
+      "name": "marketing-kuaishou-strategist",
+      "path": "./skills/marketing-kuaishou-strategist/SKILL.md",
+      "description": "Expert Kuaishou marketing strategist specializing in short-video content for China's lower-tier city markets, live commerce operations, community trust building, and grassroots audience growth on 快手."
+    },
+    {
+      "name": "marketing-linkedin-content-creator",
+      "path": "./skills/marketing-linkedin-content-creator/SKILL.md",
+      "description": "Expert LinkedIn content strategist focused on thought leadership, personal brand building, and high-engagement professional content. Masters LinkedIn's algorithm and culture to drive inbound opportunities for founders, job seekers, developers, and anyone building a professional presence."
+    },
+    {
+      "name": "marketing-livestream-commerce-coach",
+      "path": "./skills/marketing-livestream-commerce-coach/SKILL.md",
+      "description": "Veteran livestream e-commerce coach specializing in host training and live room operations across Douyin, Kuaishou, Taobao Live, and Channels, covering script design, product sequencing, paid-vs-organic traffic balancing, conversion closing techniques, and real-time data-driven optimization."
+    },
+    {
+      "name": "marketing-multi-platform-publisher",
+      "path": "./skills/marketing-multi-platform-publisher/SKILL.md",
+      "description": "Expert orchestrator for one-click Chinese blog publishing. Routes a single article to 知乎 / 小红书 / CSDN / B站 / 公众号 / 掘金 via Wechatsync (main channel) with xhs-mcp and biliup as specialized fallbacks. Handles per-platform content adaptation, draft-first publishing, rate control, and risk-avoidance. Does NOT auto-publish — always stops at draft for human review."
+    },
+    {
+      "name": "marketing-podcast-strategist",
+      "path": "./skills/marketing-podcast-strategist/SKILL.md",
+      "description": "Content strategy and operations expert for the Chinese podcast market, with deep expertise in Xiaoyuzhou, Ximalaya, and other major audio platforms, covering show positioning, audio production, audience growth, multi-platform distribution, and monetization to help podcast creators build sticky audio content brands."
+    },
+    {
+      "name": "marketing-pr-communications-manager",
+      "path": "./skills/marketing-pr-communications-manager/SKILL.md",
+      "description": "Strategic public relations and communications specialist for media relations, press releases, crisis communications, executive thought leadership, brand reputation management, and integrated communications planning — building and protecting reputations through earned media, storytelling, and proactive narrative control"
+    },
+    {
+      "name": "marketing-private-domain-operator",
+      "path": "./skills/marketing-private-domain-operator/SKILL.md",
+      "description": "Expert in building enterprise WeChat (WeCom) private domain ecosystems, with deep expertise in SCRM systems, segmented community operations, Mini Program commerce integration, user lifecycle management, and full-funnel conversion optimization."
+    },
+    {
+      "name": "marketing-reddit-community-builder",
+      "path": "./skills/marketing-reddit-community-builder/SKILL.md",
+      "description": "Expert Reddit marketing specialist focused on authentic community engagement, value-driven content creation, and long-term relationship building. Masters Reddit culture navigation."
+    },
+    {
+      "name": "marketing-seo-specialist",
+      "path": "./skills/marketing-seo-specialist/SKILL.md",
+      "description": "Expert search engine optimization strategist specializing in technical SEO, content optimization, link authority building, and organic search growth. Drives sustainable traffic through data-driven search strategies."
+    },
+    {
+      "name": "marketing-short-video-editing-coach",
+      "path": "./skills/marketing-short-video-editing-coach/SKILL.md",
+      "description": "Hands-on short-video editing coach covering the full post-production pipeline, with mastery of CapCut Pro, Premiere Pro, DaVinci Resolve, and Final Cut Pro across composition and camera language, color grading, audio engineering, motion graphics and VFX, subtitle design, multi-platform export optimization, editing workflow efficiency, and AI-assisted editing."
+    },
+    {
+      "name": "marketing-social-media-strategist",
+      "path": "./skills/marketing-social-media-strategist/SKILL.md",
+      "description": "Expert social media strategist for LinkedIn, Twitter, and professional platforms. Creates cross-platform campaigns, builds communities, manages real-time engagement, and develops thought leadership strategies."
+    },
+    {
+      "name": "marketing-tiktok-strategist",
+      "path": "./skills/marketing-tiktok-strategist/SKILL.md",
+      "description": "Expert TikTok marketing specialist focused on viral content creation, algorithm optimization, and community building. Masters TikTok's unique culture and features for brand growth."
+    },
+    {
+      "name": "marketing-twitter-engager",
+      "path": "./skills/marketing-twitter-engager/SKILL.md",
+      "description": "Expert Twitter marketing specialist focused on real-time engagement, thought leadership building, and community-driven growth. Builds brand authority through authentic conversation participation and viral thread creation."
+    },
+    {
+      "name": "marketing-video-optimization-specialist",
+      "path": "./skills/marketing-video-optimization-specialist/SKILL.md",
+      "description": "Video marketing strategist specializing in YouTube algorithm optimization, audience retention, chaptering, thumbnail concepts, and cross-platform video syndication."
+    },
+    {
+      "name": "marketing-wechat-official-account",
+      "path": "./skills/marketing-wechat-official-account/SKILL.md",
+      "description": "Expert WeChat Official Account (OA) strategist specializing in content marketing, subscriber engagement, and conversion optimization. Masters multi-format content and builds loyal communities through consistent value delivery."
+    },
+    {
+      "name": "marketing-weibo-strategist",
+      "path": "./skills/marketing-weibo-strategist/SKILL.md",
+      "description": "Full-spectrum operations expert for Sina Weibo, with deep expertise in trending topic mechanics, Super Topic community management, public sentiment monitoring, fan economy strategies, and Weibo advertising, helping brands achieve viral reach and sustained growth on China's leading public discourse platform."
+    },
+    {
+      "name": "marketing-x-twitter-intelligence-analyst",
+      "path": "./skills/marketing-x-twitter-intelligence-analyst/SKILL.md",
+      "description": "Social intelligence specialist for X/Twitter research, trend detection, account monitoring, and evidence-backed audience insights using public signals and structured data workflows."
+    },
+    {
+      "name": "marketing-xiaohongshu-specialist",
+      "path": "./skills/marketing-xiaohongshu-specialist/SKILL.md",
+      "description": "Expert Xiaohongshu marketing specialist focused on lifestyle content, trend-driven strategies, and authentic community engagement. Masters micro-content creation and drives viral growth through aesthetic storytelling."
+    },
+    {
+      "name": "marketing-zhihu-strategist",
+      "path": "./skills/marketing-zhihu-strategist/SKILL.md",
+      "description": "Expert Zhihu marketing specialist focused on thought leadership, community credibility, and knowledge-driven engagement. Masters question-answering strategy and builds brand authority through authentic expertise sharing."
+    },
+    {
+      "name": "mcp-builder",
+      "path": "./skills/mcp-builder/SKILL.md",
+      "description": "Expert Model Context Protocol developer who designs, builds, and tests MCP servers that extend AI agent capabilities with custom tools, resources, and prompts."
+    },
+    {
+      "name": "medical-billing-coding-specialist",
+      "path": "./skills/medical-billing-coding-specialist/SKILL.md",
+      "description": "Expert medical billing and coding specialist for ICD-10-CM/PCS, CPT, and HCPCS coding, claim submission, denial management, revenue cycle optimization, compliance auditing, and payer contract analysis — maximizing clean claim rates and revenue recovery for healthcare providers of all sizes"
+    },
+    {
+      "name": "meeting-notes-specialist",
+      "path": "./skills/meeting-notes-specialist/SKILL.md",
+      "description": "Extract structured decisions, action items, and open questions from meeting transcripts or rough notes into a clean 4-section summary."
+    },
+    {
+      "name": "minimal-change-engineer",
+      "path": "./skills/minimal-change-engineer/SKILL.md",
+      "description": "Engineering specialist focused on minimum-viable diffs — fixes only what was asked, refuses scope creep, prefers three similar lines over a premature abstraction. The discipline that prevents bug-fix PRs from becoming refactor avalanches."
+    },
+    {
+      "name": "mobile-app-builder",
+      "path": "./skills/mobile-app-builder/SKILL.md",
+      "description": "Specialized mobile application developer with expertise in native iOS/Android development and cross-platform frameworks"
+    },
+    {
+      "name": "model-qa-specialist",
+      "path": "./skills/model-qa-specialist/SKILL.md",
+      "description": "Independent model QA expert who audits ML and statistical models end-to-end - from documentation review and data reconstruction to replication, calibration testing, interpretability analysis, performance monitoring, and audit-grade reporting."
+    },
+    {
+      "name": "multi-agent-systems-architect",
+      "path": "./skills/multi-agent-systems-architect/SKILL.md",
+      "description": "Systems architect specializing in the design, coordination, and governance of multi-agent AI pipelines — covering topology selection, context management, inter-agent trust, failure recovery, human-in-the-loop gating, and observability for production-grade agent systems."
+    },
+    {
+      "name": "multi-platform-publisher",
+      "path": "./skills/multi-platform-publisher/SKILL.md",
+      "description": "Expert orchestrator for one-click Chinese blog publishing. Routes a single article to 知乎 / 小红书 / CSDN / B站 / 公众号 / 掘金 via Wechatsync (main channel) with xhs-mcp and biliup as specialized fallbacks. Handles per-platform content adaptation, draft-first publishing, rate control, and risk-avoidance. Does NOT auto-publish — always stops at draft for human review."
+    },
+    {
+      "name": "narrative-designer",
+      "path": "./skills/narrative-designer/SKILL.md",
+      "description": "Story systems and dialogue architect - Masters GDD-aligned narrative design, branching dialogue, lore architecture, and environmental storytelling across all game engines"
+    },
+    {
+      "name": "narratologist",
+      "path": "./skills/narratologist/SKILL.md",
+      "description": "Expert in narrative theory, story structure, character arcs, and literary analysis — grounds advice in established frameworks from Propp to Campbell to modern narratology"
+    },
+    {
+      "name": "nexus-spatial-discovery",
+      "path": "./skills/nexus-spatial-discovery/SKILL.md",
+      "description": "Nexus Spatial: Full Agency Discovery Exercise"
+    },
+    {
+      "name": "nexus-strategy",
+      "path": "./skills/nexus-strategy/SKILL.md",
+      "description": "🌐 NEXUS — Network of EXperts, Unified in Strategy"
+    },
+    {
+      "name": "offer-lead-gen-strategist",
+      "path": "./skills/offer-lead-gen-strategist/SKILL.md",
+      "description": "Top-of-funnel architect who designs irresistible offers and lead magnets that attract qualified buyers at scale. Specializes in value-equation offer construction, lead magnet typology, multi-channel lead generation, and compounding reach through customers, employees, agencies, and affiliates."
+    },
+    {
+      "name": "operations-manager",
+      "path": "./skills/operations-manager/SKILL.md",
+      "description": "Business operations specialist who applies Lean, Six Sigma, and systems thinking to process mapping, capacity planning, KPI governance, vendor management, and organizational efficiency — turning operational complexity into repeatable, measurable performance."
+    },
+    {
+      "name": "organizational-psychologist",
+      "path": "./skills/organizational-psychologist/SKILL.md",
+      "description": "Applied organizational psychologist who diagnoses team dynamics, psychological safety, burnout risk, and culture health — using evidence-based frameworks to help leaders build high-performing, resilient, and psychologically safe organizations."
+    },
+    {
+      "name": "orgscript-engineer",
+      "path": "./skills/orgscript-engineer/SKILL.md",
+      "description": "Expert in designing, parsing, and implementing OrgScript grammar, AST validation, and business logic definitions."
+    },
+    {
+      "name": "outbound-strategist",
+      "path": "./skills/outbound-strategist/SKILL.md",
+      "description": "Signal-based outbound specialist who designs multi-channel prospecting sequences, defines ICPs, and builds pipeline through research-driven personalization — not volume."
+    },
+    {
+      "name": "paid-media",
+      "path": "./skills/paid-media/SKILL.md",
+      "description": "Use for paid campaigns (Google Ads, Facebook Ads), search query analytics, GA4/GTM tracking setup, and programmatic ad optimization."
+    },
+    {
+      "name": "paid-media-auditor",
+      "path": "./skills/paid-media-auditor/SKILL.md",
+      "description": "Comprehensive paid media auditor who systematically evaluates Google Ads, Microsoft Ads, and Meta accounts across 200+ checkpoints spanning account structure, tracking, bidding, creative, audiences, and competitive positioning. Produces actionable audit reports with prioritized recommendations and projected impact."
+    },
+    {
+      "name": "paid-media-creative-strategist",
+      "path": "./skills/paid-media-creative-strategist/SKILL.md",
+      "description": "Paid media creative specialist focused on ad copywriting, RSA optimization, asset group design, and creative testing frameworks across Google, Meta, Microsoft, and programmatic platforms. Bridges the gap between performance data and persuasive messaging."
+    },
+    {
+      "name": "paid-media-paid-social-strategist",
+      "path": "./skills/paid-media-paid-social-strategist/SKILL.md",
+      "description": "Cross-platform paid social advertising specialist covering Meta (Facebook/Instagram), LinkedIn, TikTok, Pinterest, X, and Snapchat. Designs full-funnel social ad programs from prospecting through retargeting with platform-specific creative and audience strategies."
+    },
+    {
+      "name": "paid-media-ppc-strategist",
+      "path": "./skills/paid-media-ppc-strategist/SKILL.md",
+      "description": "Senior paid media strategist specializing in large-scale search, shopping, and performance max campaign architecture across Google, Microsoft, and Amazon ad platforms. Designs account structures, budget allocation frameworks, and bidding strategies that scale from $10K to $10M+ monthly spend."
+    },
+    {
+      "name": "paid-media-programmatic-buyer",
+      "path": "./skills/paid-media-programmatic-buyer/SKILL.md",
+      "description": "Display advertising and programmatic media buying specialist covering managed placements, Google Display Network, DV360, trade desk platforms, partner media (newsletters, sponsored content), and ABM display strategies via platforms like Demandbase and 6Sense."
+    },
+    {
+      "name": "paid-media-search-query-analyst",
+      "path": "./skills/paid-media-search-query-analyst/SKILL.md",
+      "description": "Specialist in search term analysis, negative keyword architecture, and query-to-intent mapping. Turns raw search query data into actionable optimizations that eliminate waste and amplify high-intent traffic across paid search accounts."
+    },
+    {
+      "name": "paid-media-tracking-specialist",
+      "path": "./skills/paid-media-tracking-specialist/SKILL.md",
+      "description": "Expert in conversion tracking architecture, tag management, and attribution modeling across Google Tag Manager, GA4, Google Ads, Meta CAPI, LinkedIn Insight Tag, and server-side implementations. Ensures every conversion is counted correctly and every dollar of ad spend is measurable."
+    },
+    {
+      "name": "paid-social-strategist",
+      "path": "./skills/paid-social-strategist/SKILL.md",
+      "description": "Cross-platform paid social advertising specialist covering Meta (Facebook/Instagram), LinkedIn, TikTok, Pinterest, X, and Snapchat. Designs full-funnel social ad programs from prospecting through retargeting with platform-specific creative and audience strategies."
+    },
+    {
+      "name": "penetration-tester",
+      "path": "./skills/penetration-tester/SKILL.md",
+      "description": "Offensive security specialist conducting authorized penetration tests, red team operations, and vulnerability assessments across networks, web applications, and cloud infrastructure."
+    },
+    {
+      "name": "performance-benchmarker",
+      "path": "./skills/performance-benchmarker/SKILL.md",
+      "description": "Expert performance testing and optimization specialist focused on measuring, analyzing, and improving system performance across all applications and infrastructure"
+    },
+    {
+      "name": "persona-walkthrough-specialist",
+      "path": "./skills/persona-walkthrough-specialist/SKILL.md",
+      "description": "Simulate cognitive walkthroughs of web pages from a defined persona's psychological perspective — captures emotional reactions and rational thought at each scroll position, then delivers structured CRO reports grounded in LIFT, Cialdini, and Fogg frameworks"
+    },
+    {
+      "name": "personal-growth-mentor",
+      "path": "./skills/personal-growth-mentor/SKILL.md",
+      "description": "Cross-domain personal development mentor for goal clarity, habit design, strategic decisions, and accountability without motivational fluff."
+    },
+    {
+      "name": "phase-0-discovery",
+      "path": "./skills/phase-0-discovery/SKILL.md",
+      "description": "🔍 Phase 0 Playbook — Intelligence & Discovery"
+    },
+    {
+      "name": "phase-1-strategy",
+      "path": "./skills/phase-1-strategy/SKILL.md",
+      "description": "🏗️ Phase 1 Playbook — Strategy & Architecture"
+    },
+    {
+      "name": "phase-2-foundation",
+      "path": "./skills/phase-2-foundation/SKILL.md",
+      "description": "⚙️ Phase 2 Playbook — Foundation & Scaffolding"
+    },
+    {
+      "name": "phase-3-build",
+      "path": "./skills/phase-3-build/SKILL.md",
+      "description": "🔨 Phase 3 Playbook — Build & Iterate"
+    },
+    {
+      "name": "phase-4-hardening",
+      "path": "./skills/phase-4-hardening/SKILL.md",
+      "description": "🛡️ Phase 4 Playbook — Quality & Hardening"
+    },
+    {
+      "name": "phase-5-launch",
+      "path": "./skills/phase-5-launch/SKILL.md",
+      "description": "🚀 Phase 5 Playbook — Launch & Growth"
+    },
+    {
+      "name": "phase-6-operate",
+      "path": "./skills/phase-6-operate/SKILL.md",
+      "description": "🔄 Phase 6 Playbook — Operate & Evolve"
+    },
+    {
+      "name": "pipeline-analyst",
+      "path": "./skills/pipeline-analyst/SKILL.md",
+      "description": "Revenue operations analyst specializing in pipeline health diagnostics, deal velocity analysis, forecast accuracy, and data-driven sales coaching. Turns CRM data into actionable pipeline intelligence that surfaces risks before they become missed quarters."
+    },
+    {
+      "name": "podcast-strategist",
+      "path": "./skills/podcast-strategist/SKILL.md",
+      "description": "Content strategy and operations expert for the Chinese podcast market, with deep expertise in Xiaoyuzhou, Ximalaya, and other major audio platforms, covering show positioning, audio production, audience growth, multi-platform distribution, and monetization to help podcast creators build sticky audio content brands."
+    },
+    {
+      "name": "ppc-campaign-strategist",
+      "path": "./skills/ppc-campaign-strategist/SKILL.md",
+      "description": "Senior paid media strategist specializing in large-scale search, shopping, and performance max campaign architecture across Google, Microsoft, and Amazon ad platforms. Designs account structures, budget allocation frameworks, and bidding strategies that scale from $10K to $10M+ monthly spend."
+    },
+    {
+      "name": "pr-communications-manager",
+      "path": "./skills/pr-communications-manager/SKILL.md",
+      "description": "Strategic public relations and communications specialist for media relations, press releases, crisis communications, executive thought leadership, brand reputation management, and integrated communications planning — building and protecting reputations through earned media, storytelling, and proactive narrative control"
+    },
+    {
+      "name": "pricing-analyst",
+      "path": "./skills/pricing-analyst/SKILL.md",
+      "description": "Specialized pricing analyst who develops optimal pricing models through market research, competitor analysis, cost structure evaluation, and margin optimization — turning pricing from guesswork into a data-driven competitive advantage."
+    },
+    {
+      "name": "private-domain-operator",
+      "path": "./skills/private-domain-operator/SKILL.md",
+      "description": "Expert in building enterprise WeChat (WeCom) private domain ecosystems, with deep expertise in SCRM systems, segmented community operations, Mini Program commerce integration, user lifecycle management, and full-funnel conversion optimization."
+    },
+    {
+      "name": "product-behavioral-nudge-engine",
+      "path": "./skills/product-behavioral-nudge-engine/SKILL.md",
+      "description": "Behavioral psychology specialist that adapts software interaction cadences and styles to maximize user motivation and success."
+    },
+    {
+      "name": "product-feedback-synthesizer",
+      "path": "./skills/product-feedback-synthesizer/SKILL.md",
+      "description": "Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strategic recommendations."
+    },
+    {
+      "name": "product-manager",
+      "path": "./skills/product-manager/SKILL.md",
+      "description": "Holistic product leader who owns the full product lifecycle — from discovery and strategy through roadmap, stakeholder alignment, go-to-market, and outcome measurement. Bridges business goals, user needs, and technical reality to ship the right thing at the right time."
+    },
+    {
+      "name": "product-sprint-prioritizer",
+      "path": "./skills/product-sprint-prioritizer/SKILL.md",
+      "description": "Expert product manager specializing in agile sprint planning, feature prioritization, and resource allocation. Focused on maximizing team velocity and business value delivery through data-driven prioritization frameworks."
+    },
+    {
+      "name": "product-trend-researcher",
+      "path": "./skills/product-trend-researcher/SKILL.md",
+      "description": "Expert market intelligence analyst specializing in identifying emerging trends, competitive analysis, and opportunity assessment. Focused on providing actionable insights that drive product strategy and innovation decisions."
+    },
+    {
+      "name": "programmatic-display-buyer",
+      "path": "./skills/programmatic-display-buyer/SKILL.md",
+      "description": "Display advertising and programmatic media buying specialist covering managed placements, Google Display Network, DV360, trade desk platforms, partner media (newsletters, sponsored content), and ABM display strategies via platforms like Demandbase and 6Sense."
+    },
+    {
+      "name": "project-management-experiment-tracker",
+      "path": "./skills/project-management-experiment-tracker/SKILL.md",
+      "description": "Expert project manager specializing in experiment design, execution tracking, and data-driven decision making. Focused on managing A/B tests, feature experiments, and hypothesis validation through systematic experimentation and rigorous analysis."
+    },
+    {
+      "name": "project-management-jira-workflow-steward",
+      "path": "./skills/project-management-jira-workflow-steward/SKILL.md",
+      "description": "Expert delivery operations specialist who enforces Jira-linked Git workflows, traceable commits, structured pull requests, and release-safe branch strategy across software teams."
+    },
+    {
+      "name": "project-management-meeting-notes-specialist",
+      "path": "./skills/project-management-meeting-notes-specialist/SKILL.md",
+      "description": "Extract structured decisions, action items, and open questions from meeting transcripts or rough notes into a clean 4-section summary."
+    },
+    {
+      "name": "project-management-project-shepherd",
+      "path": "./skills/project-management-project-shepherd/SKILL.md",
+      "description": "Expert project manager specializing in cross-functional project coordination, timeline management, and stakeholder alignment. Focused on shepherding projects from conception to completion while managing resources, risks, and communications across multiple teams and departments."
+    },
+    {
+      "name": "project-management-studio-operations",
+      "path": "./skills/project-management-studio-operations/SKILL.md",
+      "description": "Expert operations manager specializing in day-to-day studio efficiency, process optimization, and resource coordination. Focused on ensuring smooth operations, maintaining productivity standards, and supporting all teams with the tools and processes needed for success."
+    },
+    {
+      "name": "project-management-studio-producer",
+      "path": "./skills/project-management-studio-producer/SKILL.md",
+      "description": "Senior strategic leader specializing in high-level creative and technical project orchestration, resource allocation, and multi-project portfolio management. Focused on aligning creative vision with business objectives while managing complex cross-functional initiatives and ensuring optimal studio operations."
+    },
+    {
+      "name": "project-manager-senior",
+      "path": "./skills/project-manager-senior/SKILL.md",
+      "description": "Converts specs to tasks and remembers previous projects. Focused on realistic scope, no background processes, exact spec requirements"
+    },
+    {
+      "name": "project-shepherd",
+      "path": "./skills/project-shepherd/SKILL.md",
+      "description": "Expert project manager specializing in cross-functional project coordination, timeline management, and stakeholder alignment. Focused on shepherding projects from conception to completion while managing resources, risks, and communications across multiple teams and departments."
+    },
+    {
+      "name": "prompt-engineer",
+      "path": "./skills/prompt-engineer/SKILL.md",
+      "description": "Specialist in crafting, testing, and systematically optimizing prompts for LLMs — turning vague instructions into reliable, production-grade AI behaviors."
+    },
+    {
+      "name": "proposal-strategist",
+      "path": "./skills/proposal-strategist/SKILL.md",
+      "description": "Strategic proposal architect who transforms RFPs and sales opportunities into compelling win narratives. Specializes in win theme development, competitive positioning, executive summary craft, and building proposals that persuade rather than merely comply."
+    },
+    {
+      "name": "psychologist",
+      "path": "./skills/psychologist/SKILL.md",
+      "description": "Expert in human behavior, personality theory, motivation, and cognitive patterns — builds psychologically credible characters and interactions grounded in clinical and research frameworks"
+    },
+    {
+      "name": "QUICKSTART",
+      "path": "./skills/QUICKSTART/SKILL.md",
+      "description": "⚡ NEXUS Quick-Start Guide"
+    },
+    {
+      "name": "rapid-prototyper",
+      "path": "./skills/rapid-prototyper/SKILL.md",
+      "description": "Specialized in ultra-fast proof-of-concept development and MVP creation using efficient tools and frameworks"
+    },
+    {
+      "name": "real-estate-buyer-seller",
+      "path": "./skills/real-estate-buyer-seller/SKILL.md",
+      "description": "Comprehensive real estate agent assistant for buyer representation, seller representation, listing management, offer negotiation, transaction coordination, and closing support — delivering a world-class client experience from first showing to final closing across residential and investment real estate"
+    },
+    {
+      "name": "reality-checker",
+      "path": "./skills/reality-checker/SKILL.md",
+      "description": "Stops fantasy approvals, evidence-based certification - Default to \"NEEDS WORK\", requires overwhelming proof for production readiness"
+    },
+    {
+      "name": "recruitment-specialist",
+      "path": "./skills/recruitment-specialist/SKILL.md",
+      "description": "Expert recruitment operations and talent acquisition specialist — skilled in China's major hiring platforms, talent assessment frameworks, and labor law compliance. Helps companies efficiently attract, screen, and retain top talent while building a competitive employer brand."
+    },
+    {
+      "name": "reddit-community-builder",
+      "path": "./skills/reddit-community-builder/SKILL.md",
+      "description": "Expert Reddit marketing specialist focused on authentic community engagement, value-driven content creation, and long-term relationship building. Masters Reddit culture navigation."
+    },
+    {
+      "name": "report-distribution-agent",
+      "path": "./skills/report-distribution-agent/SKILL.md",
+      "description": "AI agent that automates distribution of consolidated sales reports to representatives based on territorial parameters"
+    },
+    {
+      "name": "resume-tailor",
+      "path": "./skills/resume-tailor/SKILL.md",
+      "description": "Candidate-side resume optimization specialist who analyzes job descriptions, maps real experience to role requirements, improves ATS keyword alignment, and rewrites bullets without fabricating qualifications."
+    },
+    {
+      "name": "retail-customer-returns",
+      "path": "./skills/retail-customer-returns/SKILL.md",
+      "description": "Comprehensive retail customer returns specialist for processing returns, exchanges, and refunds across in-store, online, and omnichannel retail — handling policy enforcement, fraud prevention, customer retention, vendor returns, and returns analytics to maximize recovery while preserving customer loyalty"
+    },
+    {
+      "name": "roblox-avatar-creator",
+      "path": "./skills/roblox-avatar-creator/SKILL.md",
+      "description": "Roblox UGC and avatar pipeline specialist - Masters Roblox's avatar system, UGC item creation, accessory rigging, texture standards, and the Creator Marketplace submission pipeline"
+    },
+    {
+      "name": "roblox-experience-designer",
+      "path": "./skills/roblox-experience-designer/SKILL.md",
+      "description": "Roblox platform UX and monetization specialist - Masters engagement loop design, DataStore-driven progression, Roblox monetization systems (Passes, Developer Products, UGC), and player retention for Roblox experiences"
+    },
+    {
+      "name": "roblox-systems-scripter",
+      "path": "./skills/roblox-systems-scripter/SKILL.md",
+      "description": "Roblox platform engineering specialist - Masters Luau, the client-server security model, RemoteEvents/RemoteFunctions, DataStore, and module architecture for scalable Roblox experiences"
+    },
+    {
+      "name": "sales",
+      "path": "./skills/sales/SKILL.md",
+      "description": "Use for B2B outreach programs, pipeline analytics, proposal strategies, outbounding, and client onboarding/deal structure planning."
+    },
+    {
+      "name": "sales-account-strategist",
+      "path": "./skills/sales-account-strategist/SKILL.md",
+      "description": "Expert post-sale account strategist specializing in land-and-expand execution, stakeholder mapping, QBR facilitation, and net revenue retention. Turns closed deals into long-term platform relationships through systematic expansion planning and multi-threaded account development."
+    },
+    {
+      "name": "sales-coach",
+      "path": "./skills/sales-coach/SKILL.md",
+      "description": "Expert sales coaching specialist focused on rep development, pipeline review facilitation, call coaching, deal strategy, and forecast accuracy. Makes every rep and every deal better through structured coaching methodology and behavioral feedback."
+    },
+    {
+      "name": "sales-data-extraction-agent",
+      "path": "./skills/sales-data-extraction-agent/SKILL.md",
+      "description": "AI agent specialized in monitoring Excel files and extracting key sales metrics (MTD, YTD, Year End) for internal live reporting"
+    },
+    {
+      "name": "sales-deal-strategist",
+      "path": "./skills/sales-deal-strategist/SKILL.md",
+      "description": "Senior deal strategist specializing in MEDDPICC qualification, competitive positioning, and win planning for complex B2B sales cycles. Scores opportunities, exposes pipeline risk, and builds deal strategies that survive forecast review."
+    },
+    {
+      "name": "sales-discovery-coach",
+      "path": "./skills/sales-discovery-coach/SKILL.md",
+      "description": "Coaches sales teams on elite discovery methodology — question design, current-state mapping, gap quantification, and call structure that surfaces real buying motivation."
+    },
+    {
+      "name": "sales-engineer",
+      "path": "./skills/sales-engineer/SKILL.md",
+      "description": "Senior pre-sales engineer specializing in technical discovery, demo engineering, POC scoping, competitive battlecards, and bridging product capabilities to business outcomes. Wins the technical decision so the deal can close."
+    },
+    {
+      "name": "sales-offer-lead-gen-strategist",
+      "path": "./skills/sales-offer-lead-gen-strategist/SKILL.md",
+      "description": "Top-of-funnel architect who designs irresistible offers and lead magnets that attract qualified buyers at scale. Specializes in value-equation offer construction, lead magnet typology, multi-channel lead generation, and compounding reach through customers, employees, agencies, and affiliates."
+    },
+    {
+      "name": "sales-outbound-strategist",
+      "path": "./skills/sales-outbound-strategist/SKILL.md",
+      "description": "Signal-based outbound specialist who designs multi-channel prospecting sequences, defines ICPs, and builds pipeline through research-driven personalization — not volume."
+    },
+    {
+      "name": "sales-outreach",
+      "path": "./skills/sales-outreach/SKILL.md",
+      "description": "Consultative B2B sales outreach specialist for cold prospecting, lead follow-up, objection handling, proposal writing, and pipeline management — combining data-driven targeting with genuine relationship-building to open doors and close deals"
+    },
+    {
+      "name": "sales-pipeline-analyst",
+      "path": "./skills/sales-pipeline-analyst/SKILL.md",
+      "description": "Revenue operations analyst specializing in pipeline health diagnostics, deal velocity analysis, forecast accuracy, and data-driven sales coaching. Turns CRM data into actionable pipeline intelligence that surfaces risks before they become missed quarters."
+    },
+    {
+      "name": "sales-proposal-strategist",
+      "path": "./skills/sales-proposal-strategist/SKILL.md",
+      "description": "Strategic proposal architect who transforms RFPs and sales opportunities into compelling win narratives. Specializes in win theme development, competitive positioning, executive summary craft, and building proposals that persuade rather than merely comply."
+    },
+    {
+      "name": "salesforce-architect",
+      "path": "./skills/salesforce-architect/SKILL.md",
+      "description": "Solution architecture for Salesforce platform — multi-cloud design, integration patterns, governor limits, deployment strategy, and data model governance for enterprise-scale orgs"
+    },
+    {
+      "name": "scenario-enterprise-feature",
+      "path": "./skills/scenario-enterprise-feature/SKILL.md",
+      "description": "🏢 Runbook: Enterprise Feature Development"
+    },
+    {
+      "name": "scenario-incident-response",
+      "path": "./skills/scenario-incident-response/SKILL.md",
+      "description": "🚨 Runbook: Incident Response"
+    },
+    {
+      "name": "scenario-marketing-campaign",
+      "path": "./skills/scenario-marketing-campaign/SKILL.md",
+      "description": "📢 Runbook: Multi-Channel Marketing Campaign"
+    },
+    {
+      "name": "scenario-startup-mvp",
+      "path": "./skills/scenario-startup-mvp/SKILL.md",
+      "description": "🚀 Runbook: Startup MVP Build"
+    },
+    {
+      "name": "search-query-analyst",
+      "path": "./skills/search-query-analyst/SKILL.md",
+      "description": "Specialist in search term analysis, negative keyword architecture, and query-to-intent mapping. Turns raw search query data into actionable optimizations that eliminate waste and amplify high-intent traffic across paid search accounts."
+    },
+    {
+      "name": "security-ai-generated-code-auditor",
+      "path": "./skills/security-ai-generated-code-auditor/SKILL.md",
+      "description": "Security reviewer for AI-generated and vibe-coded apps — hunts the hardcoded secrets, broken row-level security, and prompt-injection sinks that coding assistants ship by default, then drives a scan, fix, and rescan loop with honest, CWE-mapped findings."
+    },
+    {
+      "name": "security-appsec-engineer",
+      "path": "./skills/security-appsec-engineer/SKILL.md",
+      "description": "AppSec specialist who secures the software development lifecycle through threat modeling, secure code review, SAST/DAST integration, and developer security education that makes secure code the default."
+    },
+    {
+      "name": "security-architect",
+      "path": "./skills/security-architect/SKILL.md",
+      "description": "Expert security architect specializing in threat modeling, secure-by-design architecture, trust-boundary analysis, defense-in-depth, and risk-based security reviews across web, API, cloud-native, and distributed systems. Designs the security model; hands code-level SAST/DAST and SDLC work to the AppSec Engineer."
+    },
+    {
+      "name": "security-blockchain-security-auditor",
+      "path": "./skills/security-blockchain-security-auditor/SKILL.md",
+      "description": "Expert smart contract security auditor specializing in vulnerability detection, formal verification, exploit analysis, and comprehensive audit report writing for DeFi protocols and blockchain applications."
+    },
+    {
+      "name": "security-cloud-security-architect",
+      "path": "./skills/security-cloud-security-architect/SKILL.md",
+      "description": "Cloud-native security specialist designing zero trust architectures, implementing defense-in-depth across AWS, Azure, and GCP, and securing infrastructure-as-code pipelines from day one."
+    },
+    {
+      "name": "security-compliance-auditor",
+      "path": "./skills/security-compliance-auditor/SKILL.md",
+      "description": "Expert technical compliance auditor specializing in SOC 2, ISO 27001, HIPAA, and PCI-DSS audits — from readiness assessment through evidence collection to certification."
+    },
+    {
+      "name": "security-incident-responder",
+      "path": "./skills/security-incident-responder/SKILL.md",
+      "description": "Digital forensics and incident response specialist who leads breach investigations, contains active threats, coordinates crisis response, and writes post-mortems that prevent recurrence."
+    },
+    {
+      "name": "security-penetration-tester",
+      "path": "./skills/security-penetration-tester/SKILL.md",
+      "description": "Offensive security specialist conducting authorized penetration tests, red team operations, and vulnerability assessments across networks, web applications, and cloud infrastructure."
+    },
+    {
+      "name": "security-secrets-credential-engineer",
+      "path": "./skills/security-secrets-credential-engineer/SKILL.md",
+      "description": "Owns the full lifecycle of secrets and credentials — detection, prevention, vaulting, rotation, and leak response — so an application runs on short-lived, least-privilege credentials that are never in the code and are already rotated by the time a leak is found."
+    },
+    {
+      "name": "security-senior-secops",
+      "path": "./skills/security-senior-secops/SKILL.md",
+      "description": "Defensive application security specialist who scans every code submission for secrets and sensitive data exposure before anything else, then implements or audits security controls following the organization's security standard — covering authentication, authorization, tokens, cookies, HTTP headers, CORS, rate limiting, CSP, secrets management, input validation, and secure logging."
+    },
+    {
+      "name": "security-threat-detection-engineer",
+      "path": "./skills/security-threat-detection-engineer/SKILL.md",
+      "description": "Expert detection engineer specializing in SIEM rule development, MITRE ATT&CK coverage mapping, threat hunting, alert tuning, and detection-as-code pipelines for security operations teams."
+    },
+    {
+      "name": "security-threat-intelligence-analyst",
+      "path": "./skills/security-threat-intelligence-analyst/SKILL.md",
+      "description": "Cyber threat intelligence specialist who tracks adversary groups, maps attack campaigns to MITRE ATT&CK, produces actionable intelligence reports, and builds detection rules that catch real threats."
+    },
+    {
+      "name": "senior-developer",
+      "path": "./skills/senior-developer/SKILL.md",
+      "description": "Premium implementation specialist - Masters Laravel/Livewire/FluxUI, advanced CSS, Three.js integration"
+    },
+    {
+      "name": "senior-project-manager",
+      "path": "./skills/senior-project-manager/SKILL.md",
+      "description": "Converts specs to tasks and remembers previous projects. Focused on realistic scope, no background processes, exact spec requirements"
+    },
+    {
+      "name": "senior-secops-engineer",
+      "path": "./skills/senior-secops-engineer/SKILL.md",
+      "description": "Defensive application security specialist who scans every code submission for secrets and sensitive data exposure before anything else, then implements or audits security controls following the organization's security standard — covering authentication, authorization, tokens, cookies, HTTP headers, CORS, rate limiting, CSP, secrets management, input validation, and secure logging."
+    },
+    {
+      "name": "seo-specialist",
+      "path": "./skills/seo-specialist/SKILL.md",
+      "description": "Expert search engine optimization strategist specializing in technical SEO, content optimization, link authority building, and organic search growth. Drives sustainable traffic through data-driven search strategies."
+    },
+    {
+      "name": "short-video-editing-coach",
+      "path": "./skills/short-video-editing-coach/SKILL.md",
+      "description": "Hands-on short-video editing coach covering the full post-production pipeline, with mastery of CapCut Pro, Premiere Pro, DaVinci Resolve, and Final Cut Pro across composition and camera language, color grading, audio engineering, motion graphics and VFX, subtitle design, multi-platform export optimization, editing workflow efficiency, and AI-assisted editing."
+    },
+    {
+      "name": "SKILL",
+      "path": "./skills/SKILL/SKILL.md",
+      "description": "Knowledge-base steward in the spirit of Niklas Luhmann's Zettelkasten. Default perspective: Luhmann; switches to domain experts (Feynman, Munger, Ogilvy, etc.) by task. Enforces atomic notes, connectivity, and validation loops. Use for knowledge-base building, note linking, complex task breakdown, and cross-domain decision support."
+    },
+    {
+      "name": "social-media-strategist",
+      "path": "./skills/social-media-strategist/SKILL.md",
+      "description": "Expert social media strategist for LinkedIn, Twitter, and professional platforms. Creates cross-platform campaigns, builds communities, manages real-time engagement, and develops thought leadership strategies."
+    },
+    {
+      "name": "software-architect",
+      "path": "./skills/software-architect/SKILL.md",
+      "description": "Expert software architect specializing in system design, domain-driven design, architectural patterns, and technical decision-making for scalable, maintainable systems."
+    },
+    {
+      "name": "solidity-smart-contract-engineer",
+      "path": "./skills/solidity-smart-contract-engineer/SKILL.md",
+      "description": "Expert Solidity developer specializing in EVM smart contract architecture, gas optimization, upgradeable proxy patterns, DeFi protocol development, and security-first contract design across Ethereum and L2 chains."
+    },
+    {
+      "name": "solution-engineer",
+      "path": "./skills/solution-engineer/SKILL.md",
+      "description": "Hands-on GIS prototype builder who takes strategy from Technical Consultant and turns it into working demos, proof-of-concepts, and technical validations across the full Esri and open-source stack."
+    },
+    {
+      "name": "SOUL",
+      "path": "./skills/SOUL/SKILL.md",
+      "description": "Specialized agent skill for SOUL."
+    },
+    {
+      "name": "spatial-data-engineer",
+      "path": "./skills/spatial-data-engineer/SKILL.md",
+      "description": "ETL specialist who transforms messy geospatial data from any source into clean, standardized, production-ready datasets — format conversion, CRS reprojection, attribute normalization, and automated pipelines."
+    },
+    {
+      "name": "spatial-data-scientist",
+      "path": "./skills/spatial-data-scientist/SKILL.md",
+      "description": "Advanced spatial analytics specialist who applies statistical modeling, spatial econometrics, clustering, and predictive analytics to geospatial data — finding patterns that aren't visible on a map."
+    },
+    {
+      "name": "specialized-chief-of-staff",
+      "path": "./skills/specialized-chief-of-staff/SKILL.md",
+      "description": "Master coordinator for founders and executives — filters noise, owns processes, enforces consistency, routes decisions, and positions outputs for impact so the boss can think clearly."
+    },
+    {
+      "name": "specialized-civil-engineer",
+      "path": "./skills/specialized-civil-engineer/SKILL.md",
+      "description": "Expert civil and structural engineer with global standards coverage — Eurocode, DIN, ACI, AISC, ASCE, AS/NZS, CSA, GB, IS, AIJ, and more. Specializes in structural analysis, geotechnical design, construction documentation, building code compliance, and multi-standard international projects."
+    },
+    {
+      "name": "specialized-codebase-archaeologist",
+      "path": "./skills/specialized-codebase-archaeologist/SKILL.md",
+      "description": "Multi-session, multi-tool drift detection specialist who audits codebases touched by several AI coding tools (Claude, Cursor, Copilot, Windsurf, etc.) over time, finding silent logic mismatches, dead code, and doc-vs-code divergence that no single session would ever notice on its own."
+    },
+    {
+      "name": "specialized-cultural-intelligence-strategist",
+      "path": "./skills/specialized-cultural-intelligence-strategist/SKILL.md",
+      "description": "CQ specialist that detects invisible exclusion, researches global context, and ensures software resonates authentically across intersectional identities."
+    },
+    {
+      "name": "specialized-developer-advocate",
+      "path": "./skills/specialized-developer-advocate/SKILL.md",
+      "description": "Expert developer advocate specializing in building developer communities, creating compelling technical content, optimizing developer experience (DX), and driving platform adoption through authentic engineering engagement. Bridges product and engineering teams with external developers."
+    },
+    {
+      "name": "specialized-document-generator",
+      "path": "./skills/specialized-document-generator/SKILL.md",
+      "description": "Expert document creation specialist who generates professional PDF, PPTX, DOCX, and XLSX files using code-based approaches with proper formatting, charts, and data visualization."
+    },
+    {
+      "name": "specialized-fedramp-rmf-compliance",
+      "path": "./skills/specialized-fedramp-rmf-compliance/SKILL.md",
+      "description": "Expert FedRAMP and NIST Risk Management Framework compliance engineer specializing in both FedRAMP authorization pathways — the traditional Rev5 path (NIST 800-53 Rev 5 control implementation, System Security Plans, 3PAO assessment, agency authorization) and the modernized FedRAMP 20x path (Key Security Indicators, automated machine-readable validation, compliance-as-code) — plus the ATO process, continuous monitoring (ConMon), POA&M management, FIPS 199 categorization, authorization boundary diagrams, OSCAL machine-readable packages, and cloud security compliance for government and regulated industries"
+    },
+    {
+      "name": "specialized-french-consulting-market",
+      "path": "./skills/specialized-french-consulting-market/SKILL.md",
+      "description": "Navigate the French ESN/SI freelance ecosystem — margin models, platform mechanics (Malt, collective.work), portage salarial, rate positioning, and payment cycle realities"
+    },
+    {
+      "name": "specialized-korean-business-navigator",
+      "path": "./skills/specialized-korean-business-navigator/SKILL.md",
+      "description": "Korean business culture for foreign professionals — 품의 decision process, nunchi reading, KakaoTalk business etiquette, hierarchy navigation, and relationship-first deal mechanics"
+    },
+    {
+      "name": "specialized-mcp-builder",
+      "path": "./skills/specialized-mcp-builder/SKILL.md",
+      "description": "Expert Model Context Protocol developer who designs, builds, and tests MCP servers that extend AI agent capabilities with custom tools, resources, and prompts."
+    },
+    {
+      "name": "specialized-model-qa",
+      "path": "./skills/specialized-model-qa/SKILL.md",
+      "description": "Independent model QA expert who audits ML and statistical models end-to-end - from documentation review and data reconstruction to replication, calibration testing, interpretability analysis, performance monitoring, and audit-grade reporting."
+    },
+    {
+      "name": "specialized-pricing-analyst",
+      "path": "./skills/specialized-pricing-analyst/SKILL.md",
+      "description": "Specialized pricing analyst who develops optimal pricing models through market research, competitor analysis, cost structure evaluation, and margin optimization — turning pricing from guesswork into a data-driven competitive advantage."
+    },
+    {
+      "name": "specialized-salesforce-architect",
+      "path": "./skills/specialized-salesforce-architect/SKILL.md",
+      "description": "Solution architecture for Salesforce platform — multi-cloud design, integration patterns, governor limits, deployment strategy, and data model governance for enterprise-scale orgs"
+    },
+    {
+      "name": "specialized-strategy-duel-agent",
+      "path": "./skills/specialized-strategy-duel-agent/SKILL.md",
+      "description": "Conducts live strategy duels using game theory and the 36 Chinese stratagems"
+    },
+    {
+      "name": "specialized-workflow-architect",
+      "path": "./skills/specialized-workflow-architect/SKILL.md",
+      "description": "Workflow design specialist who maps complete workflow trees for every system, user journey, and agent interaction — covering happy paths, all branch conditions, failure modes, recovery paths, handoff contracts, and observable states to produce build-ready specs that agents can implement against and QA can test against."
+    },
+    {
+      "name": "sprint-prioritizer",
+      "path": "./skills/sprint-prioritizer/SKILL.md",
+      "description": "Expert product manager specializing in agile sprint planning, feature prioritization, and resource allocation. Focused on maximizing team velocity and business value delivery through data-driven prioritization frameworks."
+    },
+    {
+      "name": "sre-site-reliability-engineer",
+      "path": "./skills/sre-site-reliability-engineer/SKILL.md",
+      "description": "Expert site reliability engineer specializing in SLOs, error budgets, observability, chaos engineering, and toil reduction for production systems at scale."
+    },
+    {
+      "name": "strategy-duel-agent",
+      "path": "./skills/strategy-duel-agent/SKILL.md",
+      "description": "Conducts live strategy duels using game theory and the 36 Chinese stratagems"
+    },
+    {
+      "name": "studio-operations",
+      "path": "./skills/studio-operations/SKILL.md",
+      "description": "Expert operations manager specializing in day-to-day studio efficiency, process optimization, and resource coordination. Focused on ensuring smooth operations, maintaining productivity standards, and supporting all teams with the tools and processes needed for success."
+    },
+    {
+      "name": "studio-producer",
+      "path": "./skills/studio-producer/SKILL.md",
+      "description": "Senior strategic leader specializing in high-level creative and technical project orchestration, resource allocation, and multi-project portfolio management. Focused on aligning creative vision with business objectives while managing complex cross-functional initiatives and ensuring optimal studio operations."
+    },
+    {
+      "name": "study-abroad-advisor",
+      "path": "./skills/study-abroad-advisor/SKILL.md",
+      "description": "Full-spectrum study abroad planning expert covering the US, UK, Canada, Australia, Europe, Hong Kong, and Singapore — proficient in undergraduate, master's, and PhD application strategy, school selection, essay coaching, profile enhancement, standardized test planning, visa preparation, and overseas life adaptation, helping Chinese students craft personalized end-to-end study abroad plans."
+    },
+    {
+      "name": "supply-chain-strategist",
+      "path": "./skills/supply-chain-strategist/SKILL.md",
+      "description": "Expert supply chain management and procurement strategy specialist — skilled in supplier development, strategic sourcing, quality control, and supply chain digitalization. Grounded in China's manufacturing ecosystem, helps companies build efficient, resilient, and sustainable supply chains."
+    },
+    {
+      "name": "support-analytics-reporter",
+      "path": "./skills/support-analytics-reporter/SKILL.md",
+      "description": "Expert data analyst transforming raw data into actionable business insights. Creates dashboards, performs statistical analysis, tracks KPIs, and provides strategic decision support through data visualization and reporting."
+    },
+    {
+      "name": "support-executive-summary-generator",
+      "path": "./skills/support-executive-summary-generator/SKILL.md",
+      "description": "Consultant-grade AI specialist trained to think and communicate like a senior strategy consultant. Transforms complex business inputs into concise, actionable executive summaries using McKinsey SCQA, BCG Pyramid Principle, and Bain frameworks for C-suite decision-makers."
+    },
+    {
+      "name": "support-finance-tracker",
+      "path": "./skills/support-finance-tracker/SKILL.md",
+      "description": "Expert financial analyst and controller specializing in financial planning, budget management, and business performance analysis. Maintains financial health, optimizes cash flow, and provides strategic financial insights for business growth."
+    },
+    {
+      "name": "support-infrastructure-maintainer",
+      "path": "./skills/support-infrastructure-maintainer/SKILL.md",
+      "description": "Expert infrastructure specialist focused on system reliability, performance optimization, and technical operations management. Maintains robust, scalable infrastructure supporting business operations with security, performance, and cost efficiency."
+    },
+    {
+      "name": "support-legal-compliance-checker",
+      "path": "./skills/support-legal-compliance-checker/SKILL.md",
+      "description": "Expert legal and compliance specialist ensuring business operations, data handling, and content creation comply with relevant laws, regulations, and industry standards across multiple jurisdictions."
+    },
+    {
+      "name": "support-responder",
+      "path": "./skills/support-responder/SKILL.md",
+      "description": "Expert customer support specialist delivering exceptional customer service, issue resolution, and user experience optimization. Specializes in multi-channel support, proactive customer care, and turning support interactions into positive brand experiences."
+    },
+    {
+      "name": "support-support-responder",
+      "path": "./skills/support-support-responder/SKILL.md",
+      "description": "Expert customer support specialist delivering exceptional customer service, issue resolution, and user experience optimization. Specializes in multi-channel support, proactive customer care, and turning support interactions into positive brand experiences."
+    },
+    {
+      "name": "system",
+      "path": "./skills/system/SKILL.md",
+      "description": "ZK Steward"
+    },
+    {
+      "name": "tax-strategist",
+      "path": "./skills/tax-strategist/SKILL.md",
+      "description": "Expert tax strategist specializing in tax optimization, multi-jurisdictional compliance, transfer pricing, and strategic tax planning. Navigates complex tax codes to minimize liability while ensuring full regulatory compliance across local, state, federal, and international tax regimes."
+    },
+    {
+      "name": "technical-artist",
+      "path": "./skills/technical-artist/SKILL.md",
+      "description": "Art-to-engine pipeline specialist - Masters shaders, VFX systems, LOD pipelines, performance budgeting, and cross-engine asset optimization"
+    },
+    {
+      "name": "technical-consultant",
+      "path": "./skills/technical-consultant/SKILL.md",
+      "description": "Strategic GIS advisor who translates business problems into geospatial solutions — gap analysis, technology roadmaps, RFP responses, and digital transformation strategy across Esri and open-source ecosystems."
+    },
+    {
+      "name": "technical-writer",
+      "path": "./skills/technical-writer/SKILL.md",
+      "description": "Expert technical writer specializing in developer documentation, API references, README files, and tutorials. Transforms complex engineering concepts into clear, accurate, and engaging docs that developers actually read and use."
+    },
+    {
+      "name": "terminal-integration-specialist",
+      "path": "./skills/terminal-integration-specialist/SKILL.md",
+      "description": "Terminal emulation, text rendering optimization, and SwiftTerm integration for modern Swift applications"
+    },
+    {
+      "name": "test-results-analyzer",
+      "path": "./skills/test-results-analyzer/SKILL.md",
+      "description": "Expert test analysis specialist focused on comprehensive test result evaluation, quality metrics analysis, and actionable insight generation from testing activities"
+    },
+    {
+      "name": "testing-accessibility-auditor",
+      "path": "./skills/testing-accessibility-auditor/SKILL.md",
+      "description": "Expert accessibility specialist who audits interfaces against WCAG standards, tests with assistive technologies, and ensures inclusive design. Defaults to finding barriers — if it's not tested with a screen reader, it's not accessible."
+    },
+    {
+      "name": "testing-api-tester",
+      "path": "./skills/testing-api-tester/SKILL.md",
+      "description": "Expert API testing specialist focused on comprehensive API validation, performance testing, and quality assurance across all systems and third-party integrations"
+    },
+    {
+      "name": "testing-evidence-collector",
+      "path": "./skills/testing-evidence-collector/SKILL.md",
+      "description": "Screenshot-obsessed, fantasy-allergic QA specialist - Default to finding 3-5 issues, requires visual proof for everything"
+    },
+    {
+      "name": "testing-performance-benchmarker",
+      "path": "./skills/testing-performance-benchmarker/SKILL.md",
+      "description": "Expert performance testing and optimization specialist focused on measuring, analyzing, and improving system performance across all applications and infrastructure"
+    },
+    {
+      "name": "testing-reality-checker",
+      "path": "./skills/testing-reality-checker/SKILL.md",
+      "description": "Stops fantasy approvals, evidence-based certification - Default to \"NEEDS WORK\", requires overwhelming proof for production readiness"
+    },
+    {
+      "name": "testing-test-automation-engineer",
+      "path": "./skills/testing-test-automation-engineer/SKILL.md",
+      "description": "Expert end-to-end test automation engineer for Playwright and Cypress — resilient selectors, flake elimination, isolated test data, CI parallelization, and trace-driven failure debugging."
+    },
+    {
+      "name": "testing-test-results-analyzer",
+      "path": "./skills/testing-test-results-analyzer/SKILL.md",
+      "description": "Expert test analysis specialist focused on comprehensive test result evaluation, quality metrics analysis, and actionable insight generation from testing activities"
+    },
+    {
+      "name": "testing-tool-evaluator",
+      "path": "./skills/testing-tool-evaluator/SKILL.md",
+      "description": "Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization"
+    },
+    {
+      "name": "testing-workflow-optimizer",
+      "path": "./skills/testing-workflow-optimizer/SKILL.md",
+      "description": "Expert process improvement specialist focused on analyzing, optimizing, and automating workflows across all business functions for maximum productivity and efficiency"
+    },
+    {
+      "name": "threat-detection-engineer",
+      "path": "./skills/threat-detection-engineer/SKILL.md",
+      "description": "Expert detection engineer specializing in SIEM rule development, MITRE ATT&CK coverage mapping, threat hunting, alert tuning, and detection-as-code pipelines for security operations teams."
+    },
+    {
+      "name": "threat-intelligence-analyst",
+      "path": "./skills/threat-intelligence-analyst/SKILL.md",
+      "description": "Cyber threat intelligence specialist who tracks adversary groups, maps attack campaigns to MITRE ATT&CK, produces actionable intelligence reports, and builds detection rules that catch real threats."
+    },
+    {
+      "name": "tiktok-strategist",
+      "path": "./skills/tiktok-strategist/SKILL.md",
+      "description": "Expert TikTok marketing specialist focused on viral content creation, algorithm optimization, and community building. Masters TikTok's unique culture and features for brand growth."
+    },
+    {
+      "name": "tool-evaluator",
+      "path": "./skills/tool-evaluator/SKILL.md",
+      "description": "Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization"
+    },
+    {
+      "name": "tracking-measurement-specialist",
+      "path": "./skills/tracking-measurement-specialist/SKILL.md",
+      "description": "Expert in conversion tracking architecture, tag management, and attribution modeling across Google Tag Manager, GA4, Google Ads, Meta CAPI, LinkedIn Insight Tag, and server-side implementations. Ensures every conversion is counted correctly and every dollar of ad spend is measurable."
+    },
+    {
+      "name": "trend-researcher",
+      "path": "./skills/trend-researcher/SKILL.md",
+      "description": "Expert market intelligence analyst specializing in identifying emerging trends, competitive analysis, and opportunity assessment. Focused on providing actionable insights that drive product strategy and innovation decisions."
+    },
+    {
+      "name": "twitter-engager",
+      "path": "./skills/twitter-engager/SKILL.md",
+      "description": "Expert Twitter marketing specialist focused on real-time engagement, thought leadership building, and community-driven growth. Builds brand authority through authentic conversation participation and viral thread creation."
+    },
+    {
+      "name": "ui-designer",
+      "path": "./skills/ui-designer/SKILL.md",
+      "description": "Expert UI designer specializing in visual design systems, component libraries, and pixel-perfect interface creation. Creates beautiful, consistent, accessible user interfaces that enhance UX and reflect brand identity"
+    },
+    {
+      "name": "unity-architect",
+      "path": "./skills/unity-architect/SKILL.md",
+      "description": "Data-driven modularity specialist - Masters ScriptableObjects, decoupled systems, and single-responsibility component design for scalable Unity projects"
+    },
+    {
+      "name": "unity-editor-tool-developer",
+      "path": "./skills/unity-editor-tool-developer/SKILL.md",
+      "description": "Unity editor automation specialist - Masters custom EditorWindows, PropertyDrawers, AssetPostprocessors, ScriptedImporters, and pipeline automation that saves teams hours per week"
+    },
+    {
+      "name": "unity-multiplayer-engineer",
+      "path": "./skills/unity-multiplayer-engineer/SKILL.md",
+      "description": "Networked gameplay specialist - Masters Netcode for GameObjects, Unity Gaming Services (Relay/Lobby), client-server authority, lag compensation, and state synchronization"
+    },
+    {
+      "name": "unity-shader-graph-artist",
+      "path": "./skills/unity-shader-graph-artist/SKILL.md",
+      "description": "Visual effects and material specialist - Masters Unity Shader Graph, HLSL, URP/HDRP rendering pipelines, and custom pass authoring for real-time visual effects"
+    },
+    {
+      "name": "unreal-multiplayer-architect",
+      "path": "./skills/unreal-multiplayer-architect/SKILL.md",
+      "description": "Unreal Engine networking specialist - Masters Actor replication, GameMode/GameState architecture, server-authoritative gameplay, network prediction, and dedicated server setup for UE5"
+    },
+    {
+      "name": "unreal-systems-engineer",
+      "path": "./skills/unreal-systems-engineer/SKILL.md",
+      "description": "Performance and hybrid architecture specialist - Masters C++/Blueprint continuum, Nanite geometry, Lumen GI, and Gameplay Ability System for AAA-grade Unreal Engine projects"
+    },
+    {
+      "name": "unreal-technical-artist",
+      "path": "./skills/unreal-technical-artist/SKILL.md",
+      "description": "Unreal Engine visual pipeline specialist - Masters the Material Editor, Niagara VFX, Procedural Content Generation, and the art-to-engine pipeline for UE5 projects"
+    },
+    {
+      "name": "unreal-world-builder",
+      "path": "./skills/unreal-world-builder/SKILL.md",
+      "description": "Open-world and environment specialist - Masters UE5 World Partition, Landscape, procedural foliage, HLOD, and large-scale level streaming for seamless open-world experiences"
+    },
+    {
+      "name": "ux-architect",
+      "path": "./skills/ux-architect/SKILL.md",
+      "description": "Technical architecture and UX specialist who provides developers with solid foundations, CSS systems, and clear implementation guidance"
+    },
+    {
+      "name": "ux-researcher",
+      "path": "./skills/ux-researcher/SKILL.md",
+      "description": "Expert user experience researcher specializing in user behavior analysis, usability testing, and data-driven design insights. Provides actionable research findings that improve product usability and user satisfaction"
+    },
+    {
+      "name": "video-optimization-specialist",
+      "path": "./skills/video-optimization-specialist/SKILL.md",
+      "description": "Video marketing strategist specializing in YouTube algorithm optimization, audience retention, chaptering, thumbnail concepts, and cross-platform video syndication."
+    },
+    {
+      "name": "visionos-spatial-engineer",
+      "path": "./skills/visionos-spatial-engineer/SKILL.md",
+      "description": "Native visionOS spatial computing, SwiftUI volumetric interfaces, and Liquid Glass design implementation"
+    },
+    {
+      "name": "visual-storyteller",
+      "path": "./skills/visual-storyteller/SKILL.md",
+      "description": "Expert visual communication specialist focused on creating compelling visual narratives, multimedia content, and brand storytelling through design. Specializes in transforming complex information into engaging visual stories that connect with audiences and drive emotional engagement."
+    },
+    {
+      "name": "voice-ai-integration-engineer",
+      "path": "./skills/voice-ai-integration-engineer/SKILL.md",
+      "description": "Expert in building end-to-end speech transcription pipelines using Whisper-style models and cloud ASR services — from raw audio ingestion through preprocessing, transcript cleanup, subtitle generation, speaker diarization, and structured downstream integration into apps, APIs, and CMS platforms."
+    },
+    {
+      "name": "web-gis-developer",
+      "path": "./skills/web-gis-developer/SKILL.md",
+      "description": "Full-stack web GIS engineer who builds interactive mapping applications — MapLibre GL JS, ArcGIS JS API, Leaflet, real-time dashboards, REST API integration, and geospatial web services."
+    },
+    {
+      "name": "wechat-mini-program-developer",
+      "path": "./skills/wechat-mini-program-developer/SKILL.md",
+      "description": "Expert WeChat Mini Program developer specializing in 小程序 development with WXML/WXSS/WXS, WeChat API integration, payment systems, subscription messaging, and the full WeChat ecosystem."
+    },
+    {
+      "name": "wechat-official-account-manager",
+      "path": "./skills/wechat-official-account-manager/SKILL.md",
+      "description": "Expert WeChat Official Account (OA) strategist specializing in content marketing, subscriber engagement, and conversion optimization. Masters multi-format content and builds loyal communities through consistent value delivery."
+    },
+    {
+      "name": "weibo-strategist",
+      "path": "./skills/weibo-strategist/SKILL.md",
+      "description": "Full-spectrum operations expert for Sina Weibo, with deep expertise in trending topic mechanics, Super Topic community management, public sentiment monitoring, fan economy strategies, and Weibo advertising, helping brands achieve viral reach and sustained growth on China's leading public discourse platform."
+    },
+    {
+      "name": "whimsy-injector",
+      "path": "./skills/whimsy-injector/SKILL.md",
+      "description": "Expert creative specialist focused on adding personality, delight, and playful elements to brand experiences. Creates memorable, joyful interactions that differentiate brands through unexpected moments of whimsy"
+    },
+    {
+      "name": "wordpress-shopping-cart-engineer",
+      "path": "./skills/wordpress-shopping-cart-engineer/SKILL.md",
+      "description": "Expert WordPress e-commerce engineer specializing in WooCommerce for product catalog management, payment gateway integration, checkout customization, order management, tax and coupon configuration, and conversion-optimized storefront delivery on WordPress"
+    },
+    {
+      "name": "workflow-architect",
+      "path": "./skills/workflow-architect/SKILL.md",
+      "description": "Workflow design specialist who maps complete workflow trees for every system, user journey, and agent interaction — covering happy paths, all branch conditions, failure modes, recovery paths, handoff contracts, and observable states to produce build-ready specs that agents can implement against and QA can test against."
+    },
+    {
+      "name": "workflow-book-chapter",
+      "path": "./skills/workflow-book-chapter/SKILL.md",
+      "description": "Workflow Example: Book Chapter Development"
+    },
+    {
+      "name": "workflow-landing-page",
+      "path": "./skills/workflow-landing-page/SKILL.md",
+      "description": "Multi-Agent Workflow: Landing Page Sprint"
+    },
+    {
+      "name": "workflow-optimizer",
+      "path": "./skills/workflow-optimizer/SKILL.md",
+      "description": "Expert process improvement specialist focused on analyzing, optimizing, and automating workflows across all business functions for maximum productivity and efficiency"
+    },
+    {
+      "name": "workflow-startup-mvp",
+      "path": "./skills/workflow-startup-mvp/SKILL.md",
+      "description": "Multi-Agent Workflow: Startup MVP"
+    },
+    {
+      "name": "workflow-with-memory",
+      "path": "./skills/workflow-with-memory/SKILL.md",
+      "description": "Multi-Agent Workflow: Startup MVP with Persistent Memory"
+    },
+    {
+      "name": "x-twitter-intelligence-analyst",
+      "path": "./skills/x-twitter-intelligence-analyst/SKILL.md",
+      "description": "Social intelligence specialist for X/Twitter research, trend detection, account monitoring, and evidence-backed audience insights using public signals and structured data workflows."
+    },
+    {
+      "name": "xiaohongshu-specialist",
+      "path": "./skills/xiaohongshu-specialist/SKILL.md",
+      "description": "Expert Xiaohongshu marketing specialist focused on lifestyle content, trend-driven strategies, and authentic community engagement. Masters micro-content creation and drives viral growth through aesthetic storytelling."
+    },
+    {
+      "name": "xr-cockpit-interaction-specialist",
+      "path": "./skills/xr-cockpit-interaction-specialist/SKILL.md",
+      "description": "Specialist in designing and developing immersive cockpit-based control systems for XR environments"
+    },
+    {
+      "name": "xr-immersive-developer",
+      "path": "./skills/xr-immersive-developer/SKILL.md",
+      "description": "Expert WebXR and immersive technology developer with specialization in browser-based AR/VR/XR applications"
+    },
+    {
+      "name": "xr-interface-architect",
+      "path": "./skills/xr-interface-architect/SKILL.md",
+      "description": "Spatial interaction designer and interface strategist for immersive AR/VR/XR environments"
+    },
+    {
+      "name": "zhihu-strategist",
+      "path": "./skills/zhihu-strategist/SKILL.md",
+      "description": "Expert Zhihu marketing specialist focused on thought leadership, community credibility, and knowledge-driven engagement. Masters question-answering strategy and builds brand authority through authentic expertise sharing."
+    },
+    {
+      "name": "zk-steward",
+      "path": "./skills/zk-steward/SKILL.md",
+      "description": "Knowledge-base steward in the spirit of Niklas Luhmann's Zettelkasten. Default perspective: Luhmann; switches to domain experts (Feynman, Munger, Ogilvy, etc.) by task. Enforces atomic notes, connectivity, and validation loops. Use for knowledge-base building, note linking, complex task breakdown, and cross-domain decision support."
+    }
+  ]
+}

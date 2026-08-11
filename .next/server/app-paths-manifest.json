@@ -1,0 +1,11 @@
+{
+  "/terms/page": "app/terms/page.js",
+  "/privacy/page": "app/privacy/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/resources/page": "app/resources/page.js",
+  "/results/page": "app/results/page.js",
+  "/courses/page": "app/courses/page.js",
+  "/notice/page": "app/notice/page.js",
+  "/about/page": "app/about/page.js",
+  "/page": "app/page.js"
+}
