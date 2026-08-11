@@ -50,8 +50,8 @@ export default function Navbar({ onOpenLoginModal }) {
     <header
       className={`sticky top-0 z-50 transition-all duration-300 ${
         scrolled
-          ? 'bg-slate-950/95 backdrop-blur-xl border-b border-slate-800 shadow-2xl py-2.5 sm:py-3'
-          : 'bg-slate-950/90 backdrop-blur-md border-b border-slate-800/60 py-3 sm:py-4'
+          ? 'bg-slate-950 backdrop-blur-xl border-b border-slate-800 shadow-2xl py-2 sm:py-3'
+          : 'bg-slate-950 border-b border-slate-800/60 py-2.5 sm:py-4'
       }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
@@ -107,51 +107,29 @@ export default function Navbar({ onOpenLoginModal }) {
 
       </div>
 
-      {/* Mobile Drawer Menu */}
+      {/* Mobile Drawer Menu — Compact, All items visible without scroll */}
       {mobileMenuOpen && (
-        <div className="lg:hidden fixed inset-x-0 top-[57px] bottom-0 z-50 bg-slate-950 border-b border-slate-800 px-4 pt-4 pb-24 flex flex-col justify-between overflow-y-auto">
-          <div className="space-y-2">
-            <p className="text-[11px] font-extrabold uppercase tracking-widest text-slate-500 px-3 pb-1">
-              Menu Navigation
-            </p>
-            
-            <div className="flex flex-col space-y-1.5 font-semibold text-sm">
-              {navLinks.map((link) => {
-                const isActive = pathname === link.href;
-                return (
-                  <Link
-                    key={link.href}
-                    href={link.href}
-                    onClick={() => setMobileMenuOpen(false)}
-                    className={`p-3.5 rounded-xl flex items-center justify-between transition-all ${
-                      isActive
-                        ? 'bg-blue-600/20 text-blue-400 font-bold border border-blue-500/40'
-                        : 'text-slate-200 bg-slate-900/50 hover:bg-slate-900 border border-slate-800/40'
-                    }`}
-                  >
-                    <span>{link.label}</span>
-                    <ChevronRight size={16} className={isActive ? "text-blue-400" : "text-slate-500"} />
-                  </Link>
-                );
-              })}
-            </div>
+        <div className="lg:hidden absolute left-0 right-0 top-full z-50 bg-slate-950 border-b border-slate-800 shadow-2xl">
+          <div className="px-3 py-3 space-y-1">
+            {navLinks.map((link) => {
+              const isActive = pathname === link.href;
+              return (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  onClick={() => setMobileMenuOpen(false)}
+                  className={`px-4 py-3 rounded-xl flex items-center justify-between transition-all ${
+                    isActive
+                      ? 'bg-blue-600/20 text-blue-400 font-bold border border-blue-500/40'
+                      : 'text-slate-200 hover:bg-slate-900 border border-transparent'
+                  }`}
+                >
+                  <span className="text-sm font-semibold">{link.label}</span>
+                  <ChevronRight size={15} className={isActive ? "text-blue-400" : "text-slate-600"} />
+                </Link>
+              );
+            })}
           </div>
-
-          {/* Login button in mobile drawer — COMMENTED OUT until backend/dashboard is built */}
-          {/*
-          <div className="pt-6 border-t border-slate-800 mt-6">
-            <button
-              onClick={() => {
-                setMobileMenuOpen(false);
-                onOpenLoginModal();
-              }}
-              className="w-full gold-gradient-bg text-slate-950 font-black py-3.5 rounded-xl shadow-xl text-center text-xs uppercase tracking-wider flex items-center justify-center gap-2 active:scale-98 transition-all"
-            >
-              <LogIn size={16} />
-              <span>Log in to Student / Portal</span>
-            </button>
-          </div>
-          */}
         </div>
       )}
     </header>
