@@ -242,7 +242,7 @@ export default function ResultsTrackRecord({ isHomePage = false }) {
           <div className="text-center pt-2">
             <Link
               href="/results"
-              className="inline-flex items-center gap-2 gold-gradient-bg text-slate-950 font-black text-xs uppercase tracking-wider px-8 py-3.5 rounded-2xl shadow-xl hover:scale-105 transition-transform"
+              className="inline-flex items-center gap-2 gold-gradient-bg text-slate-950 font-black text-xs uppercase tracking-wider px-5 sm:px-8 py-3.5 rounded-2xl shadow-xl hover:scale-105 transition-transform"
             >
               <span>View All 50+ Verified Results</span>
               <ArrowRight size={15} />
@@ -254,7 +254,7 @@ export default function ResultsTrackRecord({ isHomePage = false }) {
             <div className="text-center pt-4">
               <button
                 onClick={() => setVisibleCount((prev) => Math.min(prev + 16, filteredToppers.length))}
-                className="gold-gradient-bg text-slate-950 font-black text-xs uppercase tracking-wider px-8 py-3.5 rounded-2xl shadow-xl hover:scale-105 transition-transform cursor-pointer"
+                className="gold-gradient-bg text-slate-950 font-black text-xs uppercase tracking-wider px-5 sm:px-8 py-3.5 rounded-2xl shadow-xl hover:scale-105 transition-transform cursor-pointer"
               >
                 View More Results ({filteredToppers.length - visibleCount} Remaining)
               </button>

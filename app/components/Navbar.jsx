@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Menu, X, ChevronRight, LogIn } from 'lucide-react';
+import { Menu, X, ChevronRight } from 'lucide-react';
 import ApexLogo from './ApexLogo';
 
 export default function Navbar({ onOpenLoginModal }) {
@@ -31,6 +31,11 @@ export default function Navbar({ onOpenLoginModal }) {
     };
   }, [mobileMenuOpen]);
 
+  // Close mobile menu on route change
+  useEffect(() => {
+    setMobileMenuOpen(false);
+  }, [pathname]);
+
   const navLinks = [
     { href: '/', label: 'Home' },
     { href: '/about', label: 'About' },
@@ -43,20 +48,20 @@ export default function Navbar({ onOpenLoginModal }) {
 
   return (
     <header
-      className={`sticky top-0 z-40 transition-all duration-300 ${
+      className={`sticky top-0 z-50 transition-all duration-300 ${
         scrolled
-          ? 'bg-slate-950/95 backdrop-blur-xl border-b border-slate-800 shadow-2xl py-3'
-          : 'bg-slate-950/90 backdrop-blur-md border-b border-slate-800/60 py-4'
+          ? 'bg-slate-950/95 backdrop-blur-xl border-b border-slate-800 shadow-2xl py-2.5 sm:py-3'
+          : 'bg-slate-950/90 backdrop-blur-md border-b border-slate-800/60 py-3 sm:py-4'
       }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
         
         {/* Left Side: Brand Logo */}
-        <div className="flex items-center">
+        <div className="flex items-center shrink-0">
           <ApexLogo showSubtitle={false} />
         </div>
 
-        {/* Center: Navigation Links */}
+        {/* Center: Navigation Links (Desktop only) */}
         <nav className="hidden lg:flex items-center gap-1 xl:gap-2 text-sm font-semibold">
           {navLinks.map((link) => {
             const isActive = pathname === link.href;
@@ -76,7 +81,8 @@ export default function Navbar({ onOpenLoginModal }) {
           })}
         </nav>
 
-        {/* Right Side: Log In Button */}
+        {/* Right Side: Log In Button — COMMENTED OUT until backend/dashboard is built */}
+        {/* 
         <div className="hidden sm:flex items-center">
           <button
             onClick={onOpenLoginModal}
@@ -86,17 +92,10 @@ export default function Navbar({ onOpenLoginModal }) {
             <span>Log in</span>
           </button>
         </div>
+        */}
 
         {/* Mobile Menu Toggle Button */}
-        <div className="flex items-center gap-2 lg:hidden">
-          <button
-            onClick={onOpenLoginModal}
-            className="sm:hidden gold-gradient-bg text-slate-950 font-black text-[11px] uppercase tracking-wider px-3.5 py-1.5 rounded-lg shadow flex items-center gap-1"
-          >
-            <LogIn size={13} />
-            <span>Log in</span>
-          </button>
-
+        <div className="flex items-center lg:hidden">
           <button
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
             className="p-2 rounded-xl text-slate-200 bg-slate-900 border border-slate-800 hover:bg-slate-800 transition-colors"
@@ -110,13 +109,13 @@ export default function Navbar({ onOpenLoginModal }) {
 
       {/* Mobile Drawer Menu */}
       {mobileMenuOpen && (
-        <div className="lg:hidden fixed inset-x-0 top-[65px] bottom-0 z-50 bg-slate-950/95 backdrop-blur-2xl border-b border-slate-800 px-4 pt-4 pb-12 flex flex-col justify-between overflow-y-auto">
+        <div className="lg:hidden fixed inset-x-0 top-[57px] bottom-0 z-50 bg-slate-950/98 backdrop-blur-2xl border-b border-slate-800 px-4 pt-4 pb-24 flex flex-col justify-between overflow-y-auto">
           <div className="space-y-2">
             <p className="text-[11px] font-extrabold uppercase tracking-widest text-slate-500 px-3 pb-1">
               Menu Navigation
             </p>
             
-            <div className="flex flex-col space-y-1 font-semibold text-sm">
+            <div className="flex flex-col space-y-1.5 font-semibold text-sm">
               {navLinks.map((link) => {
                 const isActive = pathname === link.href;
                 return (
@@ -138,6 +137,8 @@ export default function Navbar({ onOpenLoginModal }) {
             </div>
           </div>
 
+          {/* Login button in mobile drawer — COMMENTED OUT until backend/dashboard is built */}
+          {/*
           <div className="pt-6 border-t border-slate-800 mt-6">
             <button
               onClick={() => {
@@ -150,6 +151,7 @@ export default function Navbar({ onOpenLoginModal }) {
               <span>Log in to Student / Portal</span>
             </button>
           </div>
+          */}
         </div>
       )}
     </header>

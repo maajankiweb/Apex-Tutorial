@@ -97,7 +97,7 @@ export default function HybridEcosystem() {
 
           {/* Right Column: Apex Tutorial Hub Ecosystem Box (Matching Reference Image) */}
           <div className="lg:col-span-5">
-            <div className="bg-slate-900/90 backdrop-blur-xl p-8 rounded-3xl border border-slate-800/90 shadow-2xl space-y-8 relative overflow-hidden text-center group hover:border-amber-400/40 transition-all">
+            <div className="bg-slate-900/90 backdrop-blur-xl p-5 sm:p-8 rounded-3xl border border-slate-800/90 shadow-2xl space-y-8 relative overflow-hidden text-center group hover:border-amber-400/40 transition-all">
               
               {/* Top Circular Hub Emblem */}
               <div className="flex flex-col items-center justify-center space-y-2">

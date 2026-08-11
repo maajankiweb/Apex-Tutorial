@@ -49,7 +49,7 @@ export default function Footer() {
   };
 
   return (
-    <footer className="bg-[#040812] text-slate-400 text-xs border-t border-slate-800/80 relative overflow-hidden">
+    <footer className="bg-[#040812] text-slate-400 text-xs border-t border-slate-800/80 relative overflow-hidden pb-20 lg:pb-0">
       
       {/* Schema Injection */}
       <script

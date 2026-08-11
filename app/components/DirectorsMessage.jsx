@@ -9,7 +9,7 @@ export default function DirectorsMessage() {
     <section className="py-16 bg-slate-900/90 border-y border-slate-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
-        <div className="bg-slate-950 p-8 sm:p-12 rounded-3xl border border-slate-800 shadow-2xl relative overflow-hidden">
+        <div className="bg-slate-950 p-5 sm:p-12 rounded-3xl border border-slate-800 shadow-2xl relative overflow-hidden">
           {/* Decorative Glow Background */}
           <div className="absolute top-0 right-0 w-96 h-96 bg-blue-600/10 rounded-full blur-3xl pointer-events-none" />
 

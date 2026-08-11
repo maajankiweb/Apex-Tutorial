@@ -23,7 +23,7 @@ export default function ApexLogo({ className = "", showSubtitle = true }) {
 
       <div>
         <div className="flex items-center gap-1.5">
-          <span className="font-black text-xl sm:text-2xl text-white tracking-tight font-display">
+          <span className="font-black text-lg sm:text-xl text-white tracking-tight font-display">
             APEX TUTORIAL
           </span>
           <span className="text-[10px] bg-amber-500/20 text-amber-300 font-extrabold px-2 py-0.5 rounded border border-amber-500/30">

@@ -27,7 +27,7 @@ export default function NoticeBoard() {
         </div>
 
         {/* Notice Card Frame (Matching Reference Image) */}
-        <div className="bg-slate-900/90 backdrop-blur-xl p-12 sm:p-16 rounded-3xl border border-slate-800/90 shadow-2xl text-center space-y-4">
+        <div className="bg-slate-900/90 backdrop-blur-xl p-6 sm:p-16 rounded-3xl border border-slate-800/90 shadow-2xl text-center space-y-4">
           
           <div className="w-14 h-14 rounded-2xl bg-amber-500/15 border border-amber-500/30 text-amber-400 flex items-center justify-center mx-auto shadow-lg">
             <Bell size={24} />

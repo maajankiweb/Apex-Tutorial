@@ -1,11 +1,16 @@
 {
-  "/terms/page": "app/terms/page.js",
-  "/privacy/page": "app/privacy/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/resources/page": "app/resources/page.js",
-  "/results/page": "app/results/page.js",
-  "/courses/page": "app/courses/page.js",
-  "/notice/page": "app/notice/page.js",
   "/about/page": "app/about/page.js",
-  "/page": "app/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/courses/page": "app/courses/page.js",
+  "/page": "app/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/privacy/page": "app/privacy/page.js",
+  "/notice/page": "app/notice/page.js",
+  "/resources/page": "app/resources/page.js",
+  "/terms/page": "app/terms/page.js",
+  "/results/page": "app/results/page.js",
+  "/reviews/page": "app/reviews/page.js",
+  "/api/extension/jobs/route": "app/api/extension/jobs/route.js",
+  "/api/extension/config/route": "app/api/extension/config/route.js",
+  "/wp-json/route": "app/wp-json/route.js"
 }

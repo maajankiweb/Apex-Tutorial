@@ -216,7 +216,7 @@ export default function SciencePrograms({ onOpenAdmissionModal }) {
             </p>
           </div>
 
-          <div className="flex items-center gap-3 shrink-0">
+          <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 shrink-0">
             <Link
               href="/contact"
               className="bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs px-5 py-3.5 rounded-xl border border-slate-700 flex items-center gap-2 transition-all"

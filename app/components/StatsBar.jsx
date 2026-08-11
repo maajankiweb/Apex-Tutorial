@@ -29,7 +29,7 @@ export default function StatsBar() {
   return (
     <section className="bg-[#050b17] border-y border-slate-800/80 py-8 text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-2 lg:grid-cols-4 divide-y sm:divide-y-0 sm:divide-x divide-slate-800/80 gap-y-6">
+        <div className="grid grid-cols-2 lg:grid-cols-4 lg:divide-x divide-slate-800/80 gap-y-6 gap-x-2">
           {stats.map((stat, idx) => {
             const Icon = stat.icon;
             return (
