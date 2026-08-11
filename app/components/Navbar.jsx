@@ -109,7 +109,7 @@ export default function Navbar({ onOpenLoginModal }) {
 
       {/* Mobile Drawer Menu */}
       {mobileMenuOpen && (
-        <div className="lg:hidden fixed inset-x-0 top-[57px] bottom-0 z-50 bg-slate-950/98 backdrop-blur-2xl border-b border-slate-800 px-4 pt-4 pb-24 flex flex-col justify-between overflow-y-auto">
+        <div className="lg:hidden fixed inset-x-0 top-[57px] bottom-0 z-50 bg-slate-950 border-b border-slate-800 px-4 pt-4 pb-24 flex flex-col justify-between overflow-y-auto">
           <div className="space-y-2">
             <p className="text-[11px] font-extrabold uppercase tracking-widest text-slate-500 px-3 pb-1">
               Menu Navigation
