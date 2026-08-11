@@ -3,12 +3,8 @@ import { NextResponse } from 'next/server';
 export function middleware(request) {
   const { pathname } = request.nextUrl;
 
-  // Intercept browser extension polling & WordPress scanner pings to prevent terminal 404 logs
-  if (
-    pathname === '/wp-json' ||
-    pathname.startsWith('/wp-json/') ||
-    pathname.startsWith('/api/extension')
-  ) {
+  // Intercept browser extension polling to prevent terminal 404 logs
+  if (pathname.startsWith('/api/extension')) {
     return new NextResponse(null, { status: 204 });
   }
 
@@ -16,5 +12,5 @@ export function middleware(request) {
 }
 
 export const config = {
-  matcher: ['/wp-json', '/wp-json/:path*', '/api/extension/:path*'],
+  matcher: ['/api/extension/:path*'],
 };

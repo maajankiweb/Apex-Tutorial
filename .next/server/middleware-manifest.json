@@ -10,14 +10,6 @@
       "page": "/",
       "matchers": [
         {
-          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/wp-json(.json)?[\\/#\\?]?$",
-          "originalSource": "/wp-json"
-        },
-        {
-          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/wp-json(?:\\/((?:[^\\/#\\?]+?)(?:\\/(?:[^\\/#\\?]+?))*))?(.json)?[\\/#\\?]?$",
-          "originalSource": "/wp-json/:path*"
-        },
-        {
           "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/api\\/extension(?:\\/((?:[^\\/#\\?]+?)(?:\\/(?:[^\\/#\\?]+?))*))?(.json)?[\\/#\\?]?$",
           "originalSource": "/api/extension/:path*"
         }
@@ -25,11 +17,11 @@
       "wasm": [],
       "assets": [],
       "env": {
-        "__NEXT_BUILD_ID": "fCkWDaUww-SggfodJSe-0",
-        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "VV2HMnZrLsrhGCSk5qUZS4Im8pNwWxfZr86u1uMzNsQ=",
-        "__NEXT_PREVIEW_MODE_ID": "720fedc9da3de9f759becd815a896064",
-        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "db2ab7434cb242c8ceda955ebd355c350bbfda0039fa0cdf419c01c6bdce5989",
-        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "3e4deea7d2567617ee6ed987c0d1da0deeeef549d2a8f77d8c5894e9b065ffaf"
+        "__NEXT_BUILD_ID": "HTD6ZgX_A87Q8Ylj20NEW",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "8RuDb0I8E3HupM/hM+EYMOKWSlO8cA2E7U/vq/8m8VI=",
+        "__NEXT_PREVIEW_MODE_ID": "02f05126fbc553d18ad61d32fd32aef7",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "f7c729e10b49328ccc90a27456ec6fd6dc2ed9cb674bb1fa4d130183f03754c0",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "28cdb3c1088af4c298f11c5a31d67352a691d8311a30c39437013f0c1c53c09a"
       }
     }
   },
