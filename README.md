@@ -108,12 +108,6 @@ npm -v
 
 ---
 
-## 🛡️ Trust & Compliance
-
-Maintained by **MaaJanki Web Tech**:
-- **DPIIT Recognized Startup**
-- **Udyam MSME Registration**: `UDYAM-BR-38-0014113`
-
 ---
 
 ## 📄 License
